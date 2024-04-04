@@ -1,0 +1,44 @@
+{
+    "senators": [
+        {
+            "name": "Risch, James E.",
+            "state": "Idaho",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2009
+            }
+        },
+        {
+            "name": "Crapo, Mike",
+            "state": "Idaho",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 1999
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Fulcher, Russ",
+            "state": "Idaho",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 1
+        },
+        {
+            "name": "Simpson, Michael K.",
+            "state": "Idaho",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1999
+            },
+            "district": 2
+        }
+    ],
+    "governor": {
+        "name": "Brad Little",
+        "state": "Idaho"
+    }
+}

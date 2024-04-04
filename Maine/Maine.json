@@ -1,0 +1,44 @@
+{
+    "senators": [
+        {
+            "name": "King, Angus S., Jr.",
+            "state": "Maine",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        },
+        {
+            "name": "Collins, Susan M.",
+            "state": "Maine",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 1997
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Golden, Jared F.",
+            "state": "Maine",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 2
+        },
+        {
+            "name": "Pingree, Chellie",
+            "state": "Maine",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 1
+        }
+    ],
+    "governor": {
+        "name": "Janet Mills",
+        "state": "Maine"
+    }
+}

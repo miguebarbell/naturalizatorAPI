@@ -1,0 +1,35 @@
+{
+    "senators": [
+        {
+            "name": "Welch, Peter",
+            "state": "Vermont",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2023
+            }
+        },
+        {
+            "name": "Sanders, Bernard",
+            "state": "Vermont",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2007
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Balint, Becca",
+            "state": "Vermont",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 0
+        }
+    ],
+    "governor": {
+        "name": "Phil Scott",
+        "state": "Vermont"
+    }
+}

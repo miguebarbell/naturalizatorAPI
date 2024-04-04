@@ -1,0 +1,179 @@
+{
+    "senators": [
+        {
+            "name": "Duckworth, Tammy",
+            "state": "Illinois",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2017
+            }
+        },
+        {
+            "name": "Durbin, Richard J.",
+            "state": "Illinois",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 1997
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Sorensen, Eric",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 17
+        },
+        {
+            "name": "Budzinski, Nikki",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 13
+        },
+        {
+            "name": "Miller, Mary E.",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 15
+        },
+        {
+            "name": "Underwood, Lauren",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 14
+        },
+        {
+            "name": "Krishnamoorthi, Raja",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 8
+        },
+        {
+            "name": "LaHood, Darin",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 16
+        },
+        {
+            "name": "Bost, Mike",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 12
+        },
+        {
+            "name": "Schneider, Bradley Scott",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 10
+        },
+        {
+            "name": "Foster, Bill",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 11
+        },
+        {
+            "name": "Schakowsky, Janice D.",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1999
+            },
+            "district": 9
+        },
+        {
+            "name": "Ramirez, Delia C.",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 3
+        },
+        {
+            "name": "Jackson, Jonathan L.",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 1
+        },
+        {
+            "name": "Casten, Sean",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 6
+        },
+        {
+            "name": "García, Jesús G. \"Chuy\"",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 4
+        },
+        {
+            "name": "Quigley, Mike",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 5
+        },
+        {
+            "name": "Kelly, Robin L.",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 2
+        },
+        {
+            "name": "Davis, Danny K.",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1997
+            },
+            "district": 7
+        }
+    ],
+    "governor": {
+        "name": "JB Pritzker",
+        "state": "Illinois"
+    }
+}

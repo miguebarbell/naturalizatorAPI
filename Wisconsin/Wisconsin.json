@@ -1,0 +1,98 @@
+{
+    "senators": [
+        {
+            "name": "Johnson, Ron",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2011
+            }
+        },
+        {
+            "name": "Baldwin, Tammy",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Van Orden, Derrick",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 3
+        },
+        {
+            "name": "Fitzgerald, Scott",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 5
+        },
+        {
+            "name": "Tiffany, Thomas P.",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2020
+            },
+            "district": 7
+        },
+        {
+            "name": "Steil, Bryan",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 1
+        },
+        {
+            "name": "Gallagher, Mike",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 8
+        },
+        {
+            "name": "Grothman, Glenn",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 6
+        },
+        {
+            "name": "Pocan, Mark",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 2
+        },
+        {
+            "name": "Moore, Gwen",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 4
+        }
+    ],
+    "governor": {
+        "name": "Tony Evers",
+        "state": "Wisconsin"
+    }
+}

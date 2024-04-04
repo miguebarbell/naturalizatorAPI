@@ -1,0 +1,107 @@
+{
+    "senators": [
+        {
+            "name": "Hagerty, Bill",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2021
+            }
+        },
+        {
+            "name": "Blackburn, Marsha",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2019
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Ogles, Andrew",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 5
+        },
+        {
+            "name": "Green, Mark E.",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 7
+        },
+        {
+            "name": "Rose, John W.",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 6
+        },
+        {
+            "name": "Kustoff, David",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 8
+        },
+        {
+            "name": "Cohen, Steve",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 9
+        },
+        {
+            "name": "Harshbarger, Diana",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 1
+        },
+        {
+            "name": "Burchett, Tim",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 2
+        },
+        {
+            "name": "DesJarlais, Scott",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 4
+        },
+        {
+            "name": "Fleischmann, Charles J. \"Chuck\"",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 3
+        }
+    ],
+    "governor": {
+        "name": "Bill Lee",
+        "state": "Tennessee"
+    }
+}

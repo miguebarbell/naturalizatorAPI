@@ -1,0 +1,35 @@
+{
+    "senators": [
+        {
+            "name": "Hoeven, John",
+            "state": "North Dakota",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2011
+            }
+        },
+        {
+            "name": "Cramer, Kevin",
+            "state": "North Dakota",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2019
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Armstrong, Kelly",
+            "state": "North Dakota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 0
+        }
+    ],
+    "governor": {
+        "name": "Doug Burgum",
+        "state": "North Dakota"
+    }
+}

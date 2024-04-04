@@ -1,0 +1,107 @@
+{
+    "senators": [
+        {
+            "name": "Young, Todd",
+            "state": "Indiana",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2017
+            }
+        },
+        {
+            "name": "Braun, Mike",
+            "state": "Indiana",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2019
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Houchin, Erin",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 9
+        },
+        {
+            "name": "Yakym, Rudy",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2022
+            },
+            "district": 2
+        },
+        {
+            "name": "Spartz, Victoria",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 5
+        },
+        {
+            "name": "Mrvan, Frank J.",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 1
+        },
+        {
+            "name": "Pence, Greg",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 6
+        },
+        {
+            "name": "Baird, James R.",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 4
+        },
+        {
+            "name": "Banks, Jim",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 3
+        },
+        {
+            "name": "Bucshon, Larry",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 8
+        },
+        {
+            "name": "Carson, André",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2008
+            },
+            "district": 7
+        }
+    ],
+    "governor": {
+        "name": "Eric Holcomb",
+        "state": "Indiana"
+    }
+}

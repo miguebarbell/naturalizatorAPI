@@ -1,0 +1,125 @@
+{
+    "senators": [
+        {
+            "name": "Warner, Mark R.",
+            "state": "Virginia",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2009
+            }
+        },
+        {
+            "name": "Kaine, Tim",
+            "state": "Virginia",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "McClellan, Jennifer L.",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 4
+        },
+        {
+            "name": "Kiggans, Jennifer A.",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 2
+        },
+        {
+            "name": "Good, Bob",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 5
+        },
+        {
+            "name": "Wexton, Jennifer",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 10
+        },
+        {
+            "name": "Spanberger, Abigail Davis",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 7
+        },
+        {
+            "name": "Cline, Ben",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 6
+        },
+        {
+            "name": "Beyer, Donald S.",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 8
+        },
+        {
+            "name": "Wittman, Robert J.",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 1
+        },
+        {
+            "name": "Griffith, H. Morgan",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 9
+        },
+        {
+            "name": "Connolly, Gerald E.",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 11
+        },
+        {
+            "name": "Scott, Robert C. \"Bobby\"",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1993
+            },
+            "district": 3
+        }
+    ],
+    "governor": {
+        "name": "Glenn Youngkin",
+        "state": "Virginia"
+    }
+}

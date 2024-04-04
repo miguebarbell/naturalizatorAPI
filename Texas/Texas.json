@@ -1,0 +1,368 @@
+{
+    "senators": [
+        {
+            "name": "Cruz, Ted",
+            "state": "Texas",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        },
+        {
+            "name": "Cornyn, John",
+            "state": "Texas",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2002
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Hunt, Wesley",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 38
+        },
+        {
+            "name": "Crockett, Jasmine",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 30
+        },
+        {
+            "name": "Casar, Greg",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 35
+        },
+        {
+            "name": "Allred, Colin Z.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 32
+        },
+        {
+            "name": "Gonzalez, Vicente",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 34
+        },
+        {
+            "name": "Babin, Brian",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 36
+        },
+        {
+            "name": "Veasey, Marc A.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 33
+        },
+        {
+            "name": "Carter, John R.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 31
+        },
+        {
+            "name": "Doggett, Lloyd",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1995
+            },
+            "district": 37
+        },
+        {
+            "name": "Self, Keith",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 3
+        },
+        {
+            "name": "Moran, Nathaniel",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 1
+        },
+        {
+            "name": "Luttrell, Morgan",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 8
+        },
+        {
+            "name": "De La Cruz, Monica",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 15
+        },
+        {
+            "name": "Ellzey, Jake",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 6
+        },
+        {
+            "name": "Van Duyne, Beth",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 24
+        },
+        {
+            "name": "Pfluger, August",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 11
+        },
+        {
+            "name": "Nehls, Troy E.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 22
+        },
+        {
+            "name": "Jackson, Ronny",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 13
+        },
+        {
+            "name": "Gonzales, Tony",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 23
+        },
+        {
+            "name": "Fallon, Pat",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 4
+        },
+        {
+            "name": "Garcia, Sylvia R.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 29
+        },
+        {
+            "name": "Roy, Chip",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 21
+        },
+        {
+            "name": "Escobar, Veronica",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 16
+        },
+        {
+            "name": "Fletcher, Lizzie",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 7
+        },
+        {
+            "name": "Gooden, Lance",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 5
+        },
+        {
+            "name": "Crenshaw, Dan",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 2
+        },
+        {
+            "name": "Cloud, Michael",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2018
+            },
+            "district": 27
+        },
+        {
+            "name": "Arrington, Jodey C.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 19
+        },
+        {
+            "name": "Williams, Roger",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 25
+        },
+        {
+            "name": "Castro, Joaquin",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 20
+        },
+        {
+            "name": "Weber, Randy K.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 14
+        },
+        {
+            "name": "Sessions, Pete",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 17
+        },
+        {
+            "name": "Granger, Kay",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1997
+            },
+            "district": 12
+        },
+        {
+            "name": "Cuellar, Henry",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 28
+        },
+        {
+            "name": "McCaul, Michael T.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 10
+        },
+        {
+            "name": "Green, Al",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 9
+        },
+        {
+            "name": "Burgess, Michael C.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 26
+        },
+        {
+            "name": "Jackson Lee, Sheila",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1995
+            },
+            "district": 18
+        }
+    ],
+    "governor": {
+        "name": "Greg Abbott",
+        "state": "Texas"
+    }
+}

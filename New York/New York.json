@@ -1,0 +1,251 @@
+{
+    "senators": [
+        {
+            "name": "Schumer, Charles E.",
+            "state": "New York",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 1999
+            }
+        },
+        {
+            "name": "Gillibrand, Kirsten E.",
+            "state": "New York",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2009
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Suozzi, Thomas R.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 3
+        },
+        {
+            "name": "Williams, Brandon",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 22
+        },
+        {
+            "name": "Langworthy, Nicholas A.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 23
+        },
+        {
+            "name": "Morelle, Joseph D.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2018
+            },
+            "district": 25
+        },
+        {
+            "name": "Tenney, Claudia",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 24
+        },
+        {
+            "name": "Stefanik, Elise M.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 21
+        },
+        {
+            "name": "Tonko, Paul",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 20
+        },
+        {
+            "name": "Molinaro, Marcus J.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 19
+        },
+        {
+            "name": "Lawler, Michael",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 17
+        },
+        {
+            "name": "LaLota, Nick",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 1
+        },
+        {
+            "name": "Goldman, Daniel S.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 10
+        },
+        {
+            "name": "D'Esposito, Anthony",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 4
+        },
+        {
+            "name": "Ryan, Patrick",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2022
+            },
+            "district": 18
+        },
+        {
+            "name": "Torres, Ritchie",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 15
+        },
+        {
+            "name": "Malliotakis, Nicole",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 11
+        },
+        {
+            "name": "Garbarino, Andrew R.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 2
+        },
+        {
+            "name": "Bowman, Jamaal",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 16
+        },
+        {
+            "name": "Ocasio-Cortez, Alexandria",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 14
+        },
+        {
+            "name": "Espaillat, Adriano",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 13
+        },
+        {
+            "name": "Jeffries, Hakeem S.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 8
+        },
+        {
+            "name": "Meng, Grace",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 6
+        },
+        {
+            "name": "Clarke, Yvette D.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 9
+        },
+        {
+            "name": "Meeks, Gregory W.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1997
+            },
+            "district": 5
+        },
+        {
+            "name": "Velázquez, Nydia M.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1993
+            },
+            "district": 7
+        },
+        {
+            "name": "Nadler, Jerrold",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1991
+            },
+            "district": 12
+        }
+    ],
+    "governor": {
+        "name": "Kathy Hochul",
+        "state": "New York"
+    }
+}

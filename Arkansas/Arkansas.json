@@ -1,0 +1,62 @@
+{
+    "senators": [
+        {
+            "name": "Cotton, Tom",
+            "state": "Arkansas",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2015
+            }
+        },
+        {
+            "name": "Boozman, John",
+            "state": "Arkansas",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2011
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Westerman, Bruce",
+            "state": "Arkansas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 4
+        },
+        {
+            "name": "Hill, J. French",
+            "state": "Arkansas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 2
+        },
+        {
+            "name": "Womack, Steve",
+            "state": "Arkansas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 3
+        },
+        {
+            "name": "Crawford, Eric A. \"Rick\"",
+            "state": "Arkansas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 1
+        }
+    ],
+    "governor": {
+        "name": "Sarah Huckabee Sanders",
+        "state": "Arkansas"
+    }
+}

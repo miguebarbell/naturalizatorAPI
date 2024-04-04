@@ -1,0 +1,80 @@
+{
+    "senators": [
+        {
+            "name": "Paul, Rand",
+            "state": "Kentucky",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2011
+            }
+        },
+        {
+            "name": "McConnell, Mitch",
+            "state": "Kentucky",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 1985
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "McGarvey, Morgan",
+            "state": "Kentucky",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 3
+        },
+        {
+            "name": "Comer, James",
+            "state": "Kentucky",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2016
+            },
+            "district": 1
+        },
+        {
+            "name": "Barr, Andy",
+            "state": "Kentucky",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 6
+        },
+        {
+            "name": "Massie, Thomas",
+            "state": "Kentucky",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2012
+            },
+            "district": 4
+        },
+        {
+            "name": "Guthrie, Brett",
+            "state": "Kentucky",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 2
+        },
+        {
+            "name": "Rogers, Harold",
+            "state": "Kentucky",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1981
+            },
+            "district": 5
+        }
+    ],
+    "governor": {
+        "name": "Andy Beshear",
+        "state": "Kentucky"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "senators": [
+        {
+            "name": "Kennedy, John",
+            "state": "Louisiana",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2017
+            }
+        },
+        {
+            "name": "Cassidy, Bill",
+            "state": "Louisiana",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2015
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Johnson, Mike",
+            "state": "Louisiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 4
+        },
+        {
+            "name": "Letlow, Julia",
+            "state": "Louisiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 5
+        },
+        {
+            "name": "Graves, Garret",
+            "state": "Louisiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 6
+        },
+        {
+            "name": "Carter, Troy A.",
+            "state": "Louisiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 2
+        },
+        {
+            "name": "Higgins, Clay",
+            "state": "Louisiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 3
+        },
+        {
+            "name": "Scalise, Steve",
+            "state": "Louisiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2008
+            },
+            "district": 1
+        }
+    ],
+    "governor": {
+        "name": "Jeff Landry",
+        "state": "Louisiana"
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "senators": [
+        {
+            "name": "Stabenow, Debbie",
+            "state": "Michigan",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2001
+            }
+        },
+        {
+            "name": "Peters, Gary C.",
+            "state": "Michigan",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2015
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "James, John",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 10
+        },
+        {
+            "name": "Thanedar, Shri",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 13
+        },
+        {
+            "name": "McClain, Lisa C.",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 9
+        },
+        {
+            "name": "Tlaib, Rashida",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 12
+        },
+        {
+            "name": "Stevens, Haley M.",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 11
+        },
+        {
+            "name": "Scholten, Hillary J.",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 3
+        },
+        {
+            "name": "Slotkin, Elissa",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 7
+        },
+        {
+            "name": "Bergman, Jack",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 1
+        },
+        {
+            "name": "Dingell, Debbie",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 6
+        },
+        {
+            "name": "Moolenaar, John R.",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 2
+        },
+        {
+            "name": "Kildee, Daniel T.",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 8
+        },
+        {
+            "name": "Huizenga, Bill",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 4
+        },
+        {
+            "name": "Walberg, Tim",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 5
+        }
+    ],
+    "governor": {
+        "name": "Gretchen Whitmer",
+        "state": "Michigan"
+    }
+}

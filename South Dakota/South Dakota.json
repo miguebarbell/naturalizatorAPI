@@ -1,0 +1,35 @@
+{
+    "senators": [
+        {
+            "name": "Thune, John",
+            "state": "South Dakota",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2005
+            }
+        },
+        {
+            "name": "Rounds, Mike",
+            "state": "South Dakota",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2015
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Johnson, Dusty",
+            "state": "South Dakota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 0
+        }
+    ],
+    "governor": {
+        "name": "Kristi Noem",
+        "state": "South Dakota"
+    }
+}

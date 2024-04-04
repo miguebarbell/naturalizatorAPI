@@ -1,0 +1,107 @@
+{
+    "senators": [
+        {
+            "name": "Sinema, Kyrsten",
+            "state": "Arizona",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2019
+            }
+        },
+        {
+            "name": "Kelly, Mark",
+            "state": "Arizona",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2020
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Crane, Elijah",
+            "state": "Arizona",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 2
+        },
+        {
+            "name": "Ciscomani, Juan",
+            "state": "Arizona",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 6
+        },
+        {
+            "name": "Stanton, Greg",
+            "state": "Arizona",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 4
+        },
+        {
+            "name": "Lesko, Debbie",
+            "state": "Arizona",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2018
+            },
+            "district": 8
+        },
+        {
+            "name": "Biggs, Andy",
+            "state": "Arizona",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 5
+        },
+        {
+            "name": "Gallego, Ruben",
+            "state": "Arizona",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 3
+        },
+        {
+            "name": "Schweikert, David",
+            "state": "Arizona",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 1
+        },
+        {
+            "name": "Gosar, Paul A.",
+            "state": "Arizona",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 9
+        },
+        {
+            "name": "Grijalva, Raúl M.",
+            "state": "Arizona",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 7
+        }
+    ],
+    "governor": {
+        "name": "Katie Hobbs",
+        "state": "Arizona"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "senators": [
+        {
+            "name": "Rosen, Jacky",
+            "state": "Nevada",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2019
+            }
+        },
+        {
+            "name": "Cortez Masto, Catherine",
+            "state": "Nevada",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2017
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Lee, Susie",
+            "state": "Nevada",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 3
+        },
+        {
+            "name": "Horsford, Steven",
+            "state": "Nevada",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 4
+        },
+        {
+            "name": "Amodei, Mark E.",
+            "state": "Nevada",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 2
+        },
+        {
+            "name": "Titus, Dina",
+            "state": "Nevada",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 1
+        }
+    ],
+    "governor": {
+        "name": "Joe Lombardo",
+        "state": "Nevada"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "senators": [
+        {
+            "name": "Murphy, Christopher",
+            "state": "Connecticut",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        },
+        {
+            "name": "Blumenthal, Richard",
+            "state": "Connecticut",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2011
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Hayes, Jahana",
+            "state": "Connecticut",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 5
+        },
+        {
+            "name": "Courtney, Joe",
+            "state": "Connecticut",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 2
+        },
+        {
+            "name": "Himes, James A.",
+            "state": "Connecticut",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 4
+        },
+        {
+            "name": "Larson, John B.",
+            "state": "Connecticut",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1999
+            },
+            "district": 1
+        },
+        {
+            "name": "DeLauro, Rosa L.",
+            "state": "Connecticut",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1991
+            },
+            "district": 3
+        }
+    ],
+    "governor": {
+        "name": "Ned Lamont",
+        "state": "Connecticut"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "senators": [
+        {
+            "name": "Sullivan, Dan",
+            "state": "Alaska",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2015
+            }
+        },
+        {
+            "name": "Murkowski, Lisa",
+            "state": "Alaska",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2003
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Peltola, Mary Sattler",
+            "state": "Alaska",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2022
+            },
+            "district": 0
+        }
+    ],
+    "governor": {
+        "name": "Mike Dunleavy",
+        "state": "Alaska"
+    }
+}

@@ -1,0 +1,485 @@
+{
+    "senators": [
+        {
+            "name": "Padilla, Alex",
+            "state": "California",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2021
+            }
+        },
+        {
+            "name": "Butler, Laphonza R.",
+            "state": "California",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2023
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Bera, Ami",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 6
+        },
+        {
+            "name": "Valadao, David G.",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 22
+        },
+        {
+            "name": "Kamlager-Dove, Sydney",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 37
+        },
+        {
+            "name": "Garcia, Robert",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 42
+        },
+        {
+            "name": "Kim, Young",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 40
+        },
+        {
+            "name": "Steel, Michelle",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 45
+        },
+        {
+            "name": "Jacobs, Sara",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 51
+        },
+        {
+            "name": "Levin, Mike",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 49
+        },
+        {
+            "name": "Porter, Katie",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 47
+        },
+        {
+            "name": "Gomez, Jimmy",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 34
+        },
+        {
+            "name": "Correa, J. Luis",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 46
+        },
+        {
+            "name": "Barragán, Nanette Diaz",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 44
+        },
+        {
+            "name": "Torres, Norma J.",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 35
+        },
+        {
+            "name": "Lieu, Ted",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 36
+        },
+        {
+            "name": "Peters, Scott H.",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 50
+        },
+        {
+            "name": "Vargas, Juan",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 52
+        },
+        {
+            "name": "Takano, Mark",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 39
+        },
+        {
+            "name": "Waters, Maxine",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1991
+            },
+            "district": 43
+        },
+        {
+            "name": "Sánchez, Linda T.",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 38
+        },
+        {
+            "name": "Issa, Darrell",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 48
+        },
+        {
+            "name": "Calvert, Ken",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1993
+            },
+            "district": 41
+        },
+        {
+            "name": "Mullin, Kevin",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 15
+        },
+        {
+            "name": "Kiley, Kevin",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 3
+        },
+        {
+            "name": "Duarte, John S.",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 13
+        },
+        {
+            "name": "Obernolte, Jay",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 23
+        },
+        {
+            "name": "Garcia, Mike",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2020
+            },
+            "district": 27
+        },
+        {
+            "name": "Harder, Josh",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 9
+        },
+        {
+            "name": "Carbajal, Salud O.",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 24
+        },
+        {
+            "name": "Panetta, Jimmy",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 19
+        },
+        {
+            "name": "Khanna, Ro",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 17
+        },
+        {
+            "name": "Aguilar, Pete",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 33
+        },
+        {
+            "name": "DeSaulnier, Mark",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 10
+        },
+        {
+            "name": "Ruiz, Raul",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 25
+        },
+        {
+            "name": "Cárdenas, Tony",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 29
+        },
+        {
+            "name": "Brownley, Julia",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 26
+        },
+        {
+            "name": "Swalwell, Eric",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 14
+        },
+        {
+            "name": "Huffman, Jared",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 2
+        },
+        {
+            "name": "LaMalfa, Doug",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 1
+        },
+        {
+            "name": "Garamendi, John",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 8
+        },
+        {
+            "name": "Chu, Judy",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 28
+        },
+        {
+            "name": "McClintock, Tom",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 5
+        },
+        {
+            "name": "Matsui, Doris O.",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 7
+        },
+        {
+            "name": "Pelosi, Nancy",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1987
+            },
+            "district": 11
+        },
+        {
+            "name": "Napolitano, Grace F.",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1999
+            },
+            "district": 31
+        },
+        {
+            "name": "Thompson, Mike",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1999
+            },
+            "district": 4
+        },
+        {
+            "name": "Sherman, Brad",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1997
+            },
+            "district": 32
+        },
+        {
+            "name": "Lee, Barbara",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1997
+            },
+            "district": 12
+        },
+        {
+            "name": "Costa, Jim",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 21
+        },
+        {
+            "name": "Schiff, Adam B.",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2001
+            },
+            "district": 30
+        },
+        {
+            "name": "Eshoo, Anna G.",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1993
+            },
+            "district": 16
+        },
+        {
+            "name": "Lofgren, Zoe",
+            "state": "California",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1995
+            },
+            "district": 18
+        }
+    ],
+    "governor": {
+        "name": "Gavin Newsom",
+        "state": "California"
+    }
+}

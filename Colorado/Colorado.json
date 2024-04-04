@@ -1,0 +1,89 @@
+{
+    "senators": [
+        {
+            "name": "Hickenlooper, John W.",
+            "state": "Colorado",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2021
+            }
+        },
+        {
+            "name": "Bennet, Michael F.",
+            "state": "Colorado",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2009
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Pettersen, Brittany",
+            "state": "Colorado",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 7
+        },
+        {
+            "name": "Caraveo, Yadira",
+            "state": "Colorado",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 8
+        },
+        {
+            "name": "Boebert, Lauren",
+            "state": "Colorado",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 3
+        },
+        {
+            "name": "Crow, Jason",
+            "state": "Colorado",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 6
+        },
+        {
+            "name": "Neguse, Joe",
+            "state": "Colorado",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 2
+        },
+        {
+            "name": "Lamborn, Doug",
+            "state": "Colorado",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 5
+        },
+        {
+            "name": "DeGette, Diana",
+            "state": "Colorado",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1997
+            },
+            "district": 1
+        }
+    ],
+    "governor": {
+        "name": "Jared Polis",
+        "state": "Colorado"
+    }
+}

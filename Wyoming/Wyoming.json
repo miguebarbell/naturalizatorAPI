@@ -1,0 +1,35 @@
+{
+    "senators": [
+        {
+            "name": "Lummis, Cynthia M.",
+            "state": "Wyoming",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2021
+            }
+        },
+        {
+            "name": "Barrasso, John",
+            "state": "Wyoming",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2007
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Hageman, Harriet M.",
+            "state": "Wyoming",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 0
+        }
+    ],
+    "governor": {
+        "name": "Mark Gordon",
+        "state": "Wyoming"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "senators": [
+        {
+            "name": "Romney, Mitt",
+            "state": "Utah",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2019
+            }
+        },
+        {
+            "name": "Lee, Mike",
+            "state": "Utah",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2011
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Maloy, Celeste",
+            "state": "Utah",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 2
+        },
+        {
+            "name": "Owens, Burgess",
+            "state": "Utah",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 4
+        },
+        {
+            "name": "Moore, Blake D.",
+            "state": "Utah",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 1
+        },
+        {
+            "name": "Curtis, John R.",
+            "state": "Utah",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 3
+        }
+    ],
+    "governor": {
+        "name": "Spencer Cox",
+        "state": "Utah"
+    }
+}

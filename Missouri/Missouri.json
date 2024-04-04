@@ -1,0 +1,98 @@
+{
+    "senators": [
+        {
+            "name": "Schmitt, Eric",
+            "state": "Missouri",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2023
+            }
+        },
+        {
+            "name": "Hawley, Josh",
+            "state": "Missouri",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2019
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Burlison, Eric",
+            "state": "Missouri",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 7
+        },
+        {
+            "name": "Alford, Mark",
+            "state": "Missouri",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 4
+        },
+        {
+            "name": "Bush, Cori",
+            "state": "Missouri",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 1
+        },
+        {
+            "name": "Wagner, Ann",
+            "state": "Missouri",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 2
+        },
+        {
+            "name": "Smith, Jason",
+            "state": "Missouri",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 8
+        },
+        {
+            "name": "Luetkemeyer, Blaine",
+            "state": "Missouri",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 3
+        },
+        {
+            "name": "Cleaver, Emanuel",
+            "state": "Missouri",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 5
+        },
+        {
+            "name": "Graves, Sam",
+            "state": "Missouri",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2001
+            },
+            "district": 6
+        }
+    ],
+    "governor": {
+        "name": "Mike Parson",
+        "state": "Missouri"
+    }
+}

@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Baldwin, Tammy",
+        "state": "Wisconsin",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Barrasso, John",
+        "state": "Wyoming",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2007
+        }
+    },
+    {
+        "name": "Bennet, Michael F.",
+        "state": "Colorado",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2009
+        }
+    },
+    {
+        "name": "Blackburn, Marsha",
+        "state": "Tennessee",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2019
+        }
+    },
+    {
+        "name": "Blumenthal, Richard",
+        "state": "Connecticut",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2011
+        }
+    },
+    {
+        "name": "Booker, Cory A.",
+        "state": "New Jersey",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Boozman, John",
+        "state": "Arkansas",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2011
+        }
+    },
+    {
+        "name": "Braun, Mike",
+        "state": "Indiana",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2019
+        }
+    },
+    {
+        "name": "Britt, Katie Boyd",
+        "state": "Alabama",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2023
+        }
+    },
+    {
+        "name": "Brown, Sherrod",
+        "state": "Ohio",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2007
+        }
+    },
+    {
+        "name": "Budd, Ted",
+        "state": "North Carolina",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2023
+        }
+    },
+    {
+        "name": "Butler, Laphonza R.",
+        "state": "California",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2023
+        }
+    },
+    {
+        "name": "Cantwell, Maria",
+        "state": "Washington",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2001
+        }
+    },
+    {
+        "name": "Capito, Shelley Moore",
+        "state": "West Virginia",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2015
+        }
+    },
+    {
+        "name": "Cardin, Benjamin L.",
+        "state": "Maryland",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2007
+        }
+    },
+    {
+        "name": "Carper, Thomas R.",
+        "state": "Delaware",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2001
+        }
+    },
+    {
+        "name": "Casey, Robert P., Jr.",
+        "state": "Pennsylvania",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2007
+        }
+    },
+    {
+        "name": "Cassidy, Bill",
+        "state": "Louisiana",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2015
+        }
+    },
+    {
+        "name": "Collins, Susan M.",
+        "state": "Maine",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 1997
+        }
+    },
+    {
+        "name": "Coons, Christopher A.",
+        "state": "Delaware",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2010
+        }
+    },
+    {
+        "name": "Cornyn, John",
+        "state": "Texas",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2002
+        }
+    },
+    {
+        "name": "Cortez Masto, Catherine",
+        "state": "Nevada",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2017
+        }
+    },
+    {
+        "name": "Cotton, Tom",
+        "state": "Arkansas",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2015
+        }
+    },
+    {
+        "name": "Cramer, Kevin",
+        "state": "North Dakota",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2019
+        }
+    },
+    {
+        "name": "Crapo, Mike",
+        "state": "Idaho",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 1999
+        }
+    },
+    {
+        "name": "Cruz, Ted",
+        "state": "Texas",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Daines, Steve",
+        "state": "Montana",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2015
+        }
+    },
+    {
+        "name": "Duckworth, Tammy",
+        "state": "Illinois",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2017
+        }
+    },
+    {
+        "name": "Durbin, Richard J.",
+        "state": "Illinois",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 1997
+        }
+    },
+    {
+        "name": "Ernst, Joni",
+        "state": "Iowa",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2015
+        }
+    },
+    {
+        "name": "Fetterman, John",
+        "state": "Pennsylvania",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2023
+        }
+    },
+    {
+        "name": "Fischer, Deb",
+        "state": "Nebraska",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Gillibrand, Kirsten E.",
+        "state": "New York",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2009
+        }
+    },
+    {
+        "name": "Graham, Lindsey",
+        "state": "South Carolina",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2003
+        }
+    },
+    {
+        "name": "Grassley, Chuck",
+        "state": "Iowa",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 1981
+        }
+    },
+    {
+        "name": "Hagerty, Bill",
+        "state": "Tennessee",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2021
+        }
+    },
+    {
+        "name": "Hassan, Margaret Wood",
+        "state": "New Hampshire",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2017
+        }
+    },
+    {
+        "name": "Hawley, Josh",
+        "state": "Missouri",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2019
+        }
+    },
+    {
+        "name": "Heinrich, Martin",
+        "state": "New Mexico",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Hickenlooper, John W.",
+        "state": "Colorado",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2021
+        }
+    },
+    {
+        "name": "Hirono, Mazie K.",
+        "state": "Hawaii",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Hoeven, John",
+        "state": "North Dakota",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2011
+        }
+    },
+    {
+        "name": "Hyde-Smith, Cindy",
+        "state": "Mississippi",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2018
+        }
+    },
+    {
+        "name": "Johnson, Ron",
+        "state": "Wisconsin",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2011
+        }
+    },
+    {
+        "name": "Kaine, Tim",
+        "state": "Virginia",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Kelly, Mark",
+        "state": "Arizona",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2020
+        }
+    },
+    {
+        "name": "Kennedy, John",
+        "state": "Louisiana",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2017
+        }
+    },
+    {
+        "name": "King, Angus S., Jr.",
+        "state": "Maine",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Klobuchar, Amy",
+        "state": "Minnesota",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2007
+        }
+    },
+    {
+        "name": "Lankford, James",
+        "state": "Oklahoma",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2015
+        }
+    },
+    {
+        "name": "Lee, Mike",
+        "state": "Utah",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2011
+        }
+    },
+    {
+        "name": "Lujan, Ben Ray",
+        "state": "New Mexico",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2021
+        }
+    },
+    {
+        "name": "Lummis, Cynthia M.",
+        "state": "Wyoming",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2021
+        }
+    },
+    {
+        "name": "Manchin, Joe, III",
+        "state": "West Virginia",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2010
+        }
+    },
+    {
+        "name": "Markey, Edward J.",
+        "state": "Massachusetts",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Marshall, Roger",
+        "state": "Kansas",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2021
+        }
+    },
+    {
+        "name": "McConnell, Mitch",
+        "state": "Kentucky",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 1985
+        }
+    },
+    {
+        "name": "Menendez, Robert",
+        "state": "New Jersey",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2006
+        }
+    },
+    {
+        "name": "Merkley, Jeff",
+        "state": "Oregon",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2009
+        }
+    },
+    {
+        "name": "Moran, Jerry",
+        "state": "Kansas",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2011
+        }
+    },
+    {
+        "name": "Mullin, Markwayne",
+        "state": "Oklahoma",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2023
+        }
+    },
+    {
+        "name": "Murkowski, Lisa",
+        "state": "Alaska",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2003
+        }
+    },
+    {
+        "name": "Murphy, Christopher",
+        "state": "Connecticut",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Murray, Patty",
+        "state": "Washington",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 1993
+        }
+    },
+    {
+        "name": "Ossoff, Jon",
+        "state": "Georgia",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2021
+        }
+    },
+    {
+        "name": "Padilla, Alex",
+        "state": "California",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2021
+        }
+    },
+    {
+        "name": "Paul, Rand",
+        "state": "Kentucky",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2011
+        }
+    },
+    {
+        "name": "Peters, Gary C.",
+        "state": "Michigan",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2015
+        }
+    },
+    {
+        "name": "Reed, Jack",
+        "state": "Rhode Island",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 1997
+        }
+    },
+    {
+        "name": "Ricketts, Pete",
+        "state": "Nebraska",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2023
+        }
+    },
+    {
+        "name": "Risch, James E.",
+        "state": "Idaho",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2009
+        }
+    },
+    {
+        "name": "Romney, Mitt",
+        "state": "Utah",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2019
+        }
+    },
+    {
+        "name": "Rosen, Jacky",
+        "state": "Nevada",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2019
+        }
+    },
+    {
+        "name": "Rounds, Mike",
+        "state": "South Dakota",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2015
+        }
+    },
+    {
+        "name": "Rubio, Marco",
+        "state": "Florida",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2011
+        }
+    },
+    {
+        "name": "Sanders, Bernard",
+        "state": "Vermont",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2007
+        }
+    },
+    {
+        "name": "Schatz, Brian",
+        "state": "Hawaii",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2012
+        }
+    },
+    {
+        "name": "Schmitt, Eric",
+        "state": "Missouri",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2023
+        }
+    },
+    {
+        "name": "Schumer, Charles E.",
+        "state": "New York",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 1999
+        }
+    },
+    {
+        "name": "Scott, Rick",
+        "state": "Florida",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2019
+        }
+    },
+    {
+        "name": "Scott, Tim",
+        "state": "South Carolina",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Shaheen, Jeanne",
+        "state": "New Hampshire",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2009
+        }
+    },
+    {
+        "name": "Sinema, Kyrsten",
+        "state": "Arizona",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2019
+        }
+    },
+    {
+        "name": "Smith, Tina",
+        "state": "Minnesota",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2018
+        }
+    },
+    {
+        "name": "Stabenow, Debbie",
+        "state": "Michigan",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2001
+        }
+    },
+    {
+        "name": "Sullivan, Dan",
+        "state": "Alaska",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2015
+        }
+    },
+    {
+        "name": "Tester, Jon",
+        "state": "Montana",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2007
+        }
+    },
+    {
+        "name": "Thune, John",
+        "state": "South Dakota",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2005
+        }
+    },
+    {
+        "name": "Tillis, Thomas",
+        "state": "North Carolina",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2015
+        }
+    },
+    {
+        "name": "Tuberville, Tommy",
+        "state": "Alabama",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2021
+        }
+    },
+    {
+        "name": "Van Hollen, Chris",
+        "state": "Maryland",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2017
+        }
+    },
+    {
+        "name": "Vance, J. D.",
+        "state": "Ohio",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2023
+        }
+    },
+    {
+        "name": "Warner, Mark R.",
+        "state": "Virginia",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2009
+        }
+    },
+    {
+        "name": "Warnock, Raphael G.",
+        "state": "Georgia",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2021
+        }
+    },
+    {
+        "name": "Warren, Elizabeth",
+        "state": "Massachusetts",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2013
+        }
+    },
+    {
+        "name": "Welch, Peter",
+        "state": "Vermont",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2023
+        }
+    },
+    {
+        "name": "Whitehouse, Sheldon",
+        "state": "Rhode Island",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2007
+        }
+    },
+    {
+        "name": "Wicker, Roger F.",
+        "state": "Mississippi",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2007
+        }
+    },
+    {
+        "name": "Wyden, Ron",
+        "state": "Oregon",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 1996
+        }
+    },
+    {
+        "name": "Young, Todd",
+        "state": "Indiana",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2017
+        }
+    }
+]

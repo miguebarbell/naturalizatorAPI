@@ -1,0 +1,98 @@
+{
+    "senators": [
+        {
+            "name": "Smith, Tina",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2018
+            }
+        },
+        {
+            "name": "Klobuchar, Amy",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2007
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Finstad, Brad",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2022
+            },
+            "district": 1
+        },
+        {
+            "name": "Fischbach, Michelle",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 7
+        },
+        {
+            "name": "Stauber, Pete",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 8
+        },
+        {
+            "name": "Omar, Ilhan",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 5
+        },
+        {
+            "name": "Phillips, Dean",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 3
+        },
+        {
+            "name": "Craig, Angie",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 2
+        },
+        {
+            "name": "Emmer, Tom",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 6
+        },
+        {
+            "name": "McCollum, Betty",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2001
+            },
+            "district": 4
+        }
+    ],
+    "governor": {
+        "name": "Tim Walz",
+        "state": "Minnesota"
+    }
+}

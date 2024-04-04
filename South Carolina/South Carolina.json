@@ -1,0 +1,89 @@
+{
+    "senators": [
+        {
+            "name": "Scott, Tim",
+            "state": "South Carolina",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        },
+        {
+            "name": "Graham, Lindsey",
+            "state": "South Carolina",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2003
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Fry, Russell",
+            "state": "South Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 7
+        },
+        {
+            "name": "Mace, Nancy",
+            "state": "South Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 1
+        },
+        {
+            "name": "Timmons, William R.",
+            "state": "South Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 4
+        },
+        {
+            "name": "Norman, Ralph",
+            "state": "South Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 5
+        },
+        {
+            "name": "Duncan, Jeff",
+            "state": "South Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 3
+        },
+        {
+            "name": "Wilson, Joe",
+            "state": "South Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2001
+            },
+            "district": 2
+        },
+        {
+            "name": "Clyburn, James E.",
+            "state": "South Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1993
+            },
+            "district": 6
+        }
+    ],
+    "governor": {
+        "name": "Henry McMaster",
+        "state": "South Carolina"
+    }
+}

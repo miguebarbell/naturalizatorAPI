@@ -1,0 +1,44 @@
+{
+    "senators": [
+        {
+            "name": "Manchin, Joe, III",
+            "state": "West Virginia",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2010
+            }
+        },
+        {
+            "name": "Capito, Shelley Moore",
+            "state": "West Virginia",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2015
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Miller, Carol D.",
+            "state": "West Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 1
+        },
+        {
+            "name": "Mooney, Alexander X.",
+            "state": "West Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 2
+        }
+    ],
+    "governor": {
+        "name": "Jim Justice",
+        "state": "West Virginia"
+    }
+}

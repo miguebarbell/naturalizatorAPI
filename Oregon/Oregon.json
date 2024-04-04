@@ -1,0 +1,80 @@
+{
+    "senators": [
+        {
+            "name": "Wyden, Ron",
+            "state": "Oregon",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 1996
+            }
+        },
+        {
+            "name": "Merkley, Jeff",
+            "state": "Oregon",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2009
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Salinas, Andrea",
+            "state": "Oregon",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 6
+        },
+        {
+            "name": "Hoyle, Val T.",
+            "state": "Oregon",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 4
+        },
+        {
+            "name": "Chavez-DeRemer, Lori",
+            "state": "Oregon",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 5
+        },
+        {
+            "name": "Bentz, Cliff",
+            "state": "Oregon",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 2
+        },
+        {
+            "name": "Bonamici, Suzanne",
+            "state": "Oregon",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2012
+            },
+            "district": 1
+        },
+        {
+            "name": "Blumenauer, Earl",
+            "state": "Oregon",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1995
+            },
+            "district": 3
+        }
+    ],
+    "governor": {
+        "name": "Tina Kotek",
+        "state": "Oregon"
+    }
+}

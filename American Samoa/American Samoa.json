@@ -1,0 +1,19 @@
+{
+    "senators": [
+    ],
+    "representatives": [
+        {
+            "name": "Radewagen, Aumua Amata Coleman",
+            "state": "American Samoa",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 0
+        }
+    ],
+    "governor": {
+        "name": "Lemanu P. S. Mauga",
+        "state": "American Samoa"
+    }
+}

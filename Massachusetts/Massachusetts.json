@@ -1,0 +1,107 @@
+{
+    "senators": [
+        {
+            "name": "Warren, Elizabeth",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        },
+        {
+            "name": "Markey, Edward J.",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Keating, William R.",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 9
+        },
+        {
+            "name": "Auchincloss, Jake",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 4
+        },
+        {
+            "name": "Pressley, Ayanna",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 7
+        },
+        {
+            "name": "Trahan, Lori",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 3
+        },
+        {
+            "name": "Moulton, Seth",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 6
+        },
+        {
+            "name": "Clark, Katherine M.",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 5
+        },
+        {
+            "name": "McGovern, James P.",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1997
+            },
+            "district": 2
+        },
+        {
+            "name": "Neal, Richard E.",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1989
+            },
+            "district": 1
+        },
+        {
+            "name": "Lynch, Stephen F.",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2001
+            },
+            "district": 8
+        }
+    ],
+    "governor": {
+        "name": "Maura Healey",
+        "state": "Massachusetts"
+    }
+}

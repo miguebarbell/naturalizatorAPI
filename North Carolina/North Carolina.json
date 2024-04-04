@@ -1,0 +1,152 @@
+{
+    "senators": [
+        {
+            "name": "Tillis, Thomas",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2015
+            }
+        },
+        {
+            "name": "Budd, Ted",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2023
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Murphy, Gregory F.",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 3
+        },
+        {
+            "name": "Nickel, Wiley",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 13
+        },
+        {
+            "name": "Jackson, Jeff",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 14
+        },
+        {
+            "name": "Foushee, Valerie P.",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 4
+        },
+        {
+            "name": "Edwards, Chuck",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 11
+        },
+        {
+            "name": "Manning, Kathy E.",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 6
+        },
+        {
+            "name": "Bishop, Dan",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 8
+        },
+        {
+            "name": "Rouzer, David",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 7
+        },
+        {
+            "name": "Adams, Alma S.",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2014
+            },
+            "district": 12
+        },
+        {
+            "name": "Hudson, Richard",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 9
+        },
+        {
+            "name": "McHenry, Patrick T.",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 10
+        },
+        {
+            "name": "Foxx, Virginia",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 5
+        },
+        {
+            "name": "Davis, Donald G.",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 1
+        },
+        {
+            "name": "Ross, Deborah K.",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 2
+        }
+    ],
+    "governor": {
+        "name": "Roy Cooper",
+        "state": "North Carolina"
+    }
+}

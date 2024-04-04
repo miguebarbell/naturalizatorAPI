@@ -1,0 +1,62 @@
+{
+    "senators": [
+        {
+            "name": "Wicker, Roger F.",
+            "state": "Mississippi",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2007
+            }
+        },
+        {
+            "name": "Hyde-Smith, Cindy",
+            "state": "Mississippi",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2018
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Ezell, Mike",
+            "state": "Mississippi",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 4
+        },
+        {
+            "name": "Guest, Michael",
+            "state": "Mississippi",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 3
+        },
+        {
+            "name": "Kelly, Trent",
+            "state": "Mississippi",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 1
+        },
+        {
+            "name": "Thompson, Bennie G.",
+            "state": "Mississippi",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1993
+            },
+            "district": 2
+        }
+    ],
+    "governor": {
+        "name": "Tate Reeves",
+        "state": "Mississippi"
+    }
+}

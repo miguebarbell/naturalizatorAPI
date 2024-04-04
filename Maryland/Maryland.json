@@ -1,0 +1,98 @@
+{
+    "senators": [
+        {
+            "name": "Van Hollen, Chris",
+            "state": "Maryland",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2017
+            }
+        },
+        {
+            "name": "Cardin, Benjamin L.",
+            "state": "Maryland",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2007
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Ivey, Glenn",
+            "state": "Maryland",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 4
+        },
+        {
+            "name": "Trone, David J.",
+            "state": "Maryland",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 6
+        },
+        {
+            "name": "Raskin, Jamie",
+            "state": "Maryland",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 8
+        },
+        {
+            "name": "Harris, Andy",
+            "state": "Maryland",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 1
+        },
+        {
+            "name": "Sarbanes, John P.",
+            "state": "Maryland",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 3
+        },
+        {
+            "name": "Mfume, Kweisi",
+            "state": "Maryland",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2020
+            },
+            "district": 7
+        },
+        {
+            "name": "Ruppersberger, C. A. Dutch",
+            "state": "Maryland",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 2
+        },
+        {
+            "name": "Hoyer, Steny H.",
+            "state": "Maryland",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1981
+            },
+            "district": 5
+        }
+    ],
+    "governor": {
+        "name": "Wes Moore",
+        "state": "Maryland"
+    }
+}

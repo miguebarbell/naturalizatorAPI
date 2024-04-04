@@ -1,0 +1,44 @@
+{
+    "senators": [
+        {
+            "name": "Schatz, Brian",
+            "state": "Hawaii",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2012
+            }
+        },
+        {
+            "name": "Hirono, Mazie K.",
+            "state": "Hawaii",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Tokuda, Jill N.",
+            "state": "Hawaii",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 2
+        },
+        {
+            "name": "Case, Ed",
+            "state": "Hawaii",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 1
+        }
+    ],
+    "governor": {
+        "name": "Josh Green",
+        "state": "Hawaii"
+    }
+}

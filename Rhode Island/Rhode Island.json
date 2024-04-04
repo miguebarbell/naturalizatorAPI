@@ -1,0 +1,44 @@
+{
+    "senators": [
+        {
+            "name": "Whitehouse, Sheldon",
+            "state": "Rhode Island",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2007
+            }
+        },
+        {
+            "name": "Reed, Jack",
+            "state": "Rhode Island",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 1997
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Amo, Gabe",
+            "state": "Rhode Island",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 1
+        },
+        {
+            "name": "Magaziner, Seth",
+            "state": "Rhode Island",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 2
+        }
+    ],
+    "governor": {
+        "name": "Dan McKee",
+        "state": "Rhode Island"
+    }
+}

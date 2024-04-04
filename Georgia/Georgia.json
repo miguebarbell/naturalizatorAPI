@@ -1,0 +1,152 @@
+{
+    "senators": [
+        {
+            "name": "Warnock, Raphael G.",
+            "state": "Georgia",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2021
+            }
+        },
+        {
+            "name": "Ossoff, Jon",
+            "state": "Georgia",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2021
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "McCormick, Richard",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 6
+        },
+        {
+            "name": "Collins, Mike",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 10
+        },
+        {
+            "name": "Williams, Nikema",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 5
+        },
+        {
+            "name": "Greene, Marjorie Taylor",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 14
+        },
+        {
+            "name": "Clyde, Andrew S.",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 9
+        },
+        {
+            "name": "McBath, Lucy",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 7
+        },
+        {
+            "name": "Allen, Rick W.",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 12
+        },
+        {
+            "name": "Loudermilk, Barry",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 11
+        },
+        {
+            "name": "Scott, Austin",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 8
+        },
+        {
+            "name": "Scott, David",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 13
+        },
+        {
+            "name": "Ferguson, A. Drew",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 3
+        },
+        {
+            "name": "Carter, Earl L. \"Buddy\"",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 1
+        },
+        {
+            "name": "Johnson, Henry C. \"Hank\"",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 4
+        },
+        {
+            "name": "Bishop, Sanford D.",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1993
+            },
+            "district": 2
+        }
+    ],
+    "governor": {
+        "name": "Brian Kemp",
+        "state": "Georgia"
+    }
+}

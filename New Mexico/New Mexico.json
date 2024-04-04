@@ -1,0 +1,53 @@
+{
+    "senators": [
+        {
+            "name": "Lujan, Ben Ray",
+            "state": "New Mexico",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2021
+            }
+        },
+        {
+            "name": "Heinrich, Martin",
+            "state": "New Mexico",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Vasquez, Gabe",
+            "state": "New Mexico",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 2
+        },
+        {
+            "name": "Stansbury, Melanie A.",
+            "state": "New Mexico",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 1
+        },
+        {
+            "name": "Leger Fernandez, Teresa",
+            "state": "New Mexico",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 3
+        }
+    ],
+    "governor": {
+        "name": "Michelle Lujan Grisham",
+        "state": "New Mexico"
+    }
+}

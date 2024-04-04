@@ -1,0 +1,89 @@
+{
+    "senators": [
+        {
+            "name": "Tuberville, Tommy",
+            "state": "Alabama",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2021
+            }
+        },
+        {
+            "name": "Britt, Katie Boyd",
+            "state": "Alabama",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2023
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Strong, Dale W.",
+            "state": "Alabama",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 5
+        },
+        {
+            "name": "Carl, Jerry L.",
+            "state": "Alabama",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 1
+        },
+        {
+            "name": "Moore, Barry",
+            "state": "Alabama",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 2
+        },
+        {
+            "name": "Palmer, Gary J.",
+            "state": "Alabama",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 6
+        },
+        {
+            "name": "Sewell, Terri A.",
+            "state": "Alabama",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 7
+        },
+        {
+            "name": "Aderholt, Robert B.",
+            "state": "Alabama",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1997
+            },
+            "district": 4
+        },
+        {
+            "name": "Rogers, Mike D.",
+            "state": "Alabama",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 3
+        }
+    ],
+    "governor": {
+        "name": "Kay Ivey",
+        "state": "Alabama"
+    }
+}

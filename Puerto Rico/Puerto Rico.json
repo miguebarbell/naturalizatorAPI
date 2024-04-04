@@ -1,0 +1,19 @@
+{
+    "senators": [
+    ],
+    "representatives": [
+        {
+            "name": "González-Colón, Jenniffer",
+            "state": "Puerto Rico",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 0
+        }
+    ],
+    "governor": {
+        "name": "Pedro Pierluisi",
+        "state": "Puerto Rico"
+    }
+}

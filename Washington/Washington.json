@@ -1,0 +1,116 @@
+{
+    "senators": [
+        {
+            "name": "Murray, Patty",
+            "state": "Washington",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 1993
+            }
+        },
+        {
+            "name": "Cantwell, Maria",
+            "state": "Washington",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2001
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Strickland, Marilyn",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 10
+        },
+        {
+            "name": "Schrier, Kim",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 8
+        },
+        {
+            "name": "Jayapal, Pramila",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 7
+        },
+        {
+            "name": "Smith, Adam",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1997
+            },
+            "district": 9
+        },
+        {
+            "name": "Perez, Marie Gluesenkamp",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 3
+        },
+        {
+            "name": "Newhouse, Dan",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 4
+        },
+        {
+            "name": "Kilmer, Derek",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 6
+        },
+        {
+            "name": "DelBene, Suzan K.",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2012
+            },
+            "district": 1
+        },
+        {
+            "name": "McMorris Rodgers, Cathy",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 5
+        },
+        {
+            "name": "Larsen, Rick",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2001
+            },
+            "district": 2
+        }
+    ],
+    "governor": {
+        "name": "Jay Inslee",
+        "state": "Washington"
+    }
+}

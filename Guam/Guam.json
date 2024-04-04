@@ -1,0 +1,19 @@
+{
+    "senators": [
+    ],
+    "representatives": [
+        {
+            "name": "Moylan, James C.",
+            "state": "Guam",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 0
+        }
+    ],
+    "governor": {
+        "name": "Lou Leon Guerrero",
+        "state": "Guam"
+    }
+}

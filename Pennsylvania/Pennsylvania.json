@@ -1,0 +1,179 @@
+{
+    "senators": [
+        {
+            "name": "Fetterman, John",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2023
+            }
+        },
+        {
+            "name": "Casey, Robert P., Jr.",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2007
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Cartwright, Matt",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 8
+        },
+        {
+            "name": "Lee, Summer L.",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 12
+        },
+        {
+            "name": "Deluzio, Christopher R.",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 17
+        },
+        {
+            "name": "Reschenthaler, Guy",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 14
+        },
+        {
+            "name": "Joyce, John",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 13
+        },
+        {
+            "name": "Meuser, Daniel",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 9
+        },
+        {
+            "name": "Houlahan, Chrissy",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 6
+        },
+        {
+            "name": "Dean, Madeleine",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 4
+        },
+        {
+            "name": "Wild, Susan",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2018
+            },
+            "district": 7
+        },
+        {
+            "name": "Scanlon, Mary Gay",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2018
+            },
+            "district": 5
+        },
+        {
+            "name": "Smucker, Lloyd",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 11
+        },
+        {
+            "name": "Fitzpatrick, Brian K.",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 1
+        },
+        {
+            "name": "Evans, Dwight",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2016
+            },
+            "district": 3
+        },
+        {
+            "name": "Boyle, Brendan F.",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 2
+        },
+        {
+            "name": "Perry, Scott",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 10
+        },
+        {
+            "name": "Kelly, Mike",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 16
+        },
+        {
+            "name": "Thompson, Glenn",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 15
+        }
+    ],
+    "governor": {
+        "name": "Josh Shapiro",
+        "state": "Pennsylvania"
+    }
+}

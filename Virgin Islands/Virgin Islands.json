@@ -1,0 +1,19 @@
+{
+    "senators": [
+    ],
+    "representatives": [
+        {
+            "name": "Plaskett, Stacey E.",
+            "state": "Virgin Islands",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 0
+        }
+    ],
+    "governor": {
+        "name": "Albert Bryan",
+        "state": "Virgin Islands"
+    }
+}

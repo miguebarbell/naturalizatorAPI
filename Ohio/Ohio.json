@@ -1,0 +1,152 @@
+{
+    "senators": [
+        {
+            "name": "Vance, J. D.",
+            "state": "Ohio",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2023
+            }
+        },
+        {
+            "name": "Brown, Sherrod",
+            "state": "Ohio",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2007
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Sykes, Emilia Strong",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 13
+        },
+        {
+            "name": "Miller, Max L.",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 7
+        },
+        {
+            "name": "Landsman, Greg",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 1
+        },
+        {
+            "name": "Carey, Mike",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 15
+        },
+        {
+            "name": "Brown, Shontel M.",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 11
+        },
+        {
+            "name": "Balderson, Troy",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2018
+            },
+            "district": 12
+        },
+        {
+            "name": "Davidson, Warren",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2016
+            },
+            "district": 8
+        },
+        {
+            "name": "Joyce, David P.",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 14
+        },
+        {
+            "name": "Beatty, Joyce",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 3
+        },
+        {
+            "name": "Wenstrup, Brad R.",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 2
+        },
+        {
+            "name": "Latta, Robert E.",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 5
+        },
+        {
+            "name": "Jordan, Jim",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 4
+        },
+        {
+            "name": "Turner, Michael R.",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 10
+        },
+        {
+            "name": "Kaptur, Marcy",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1983
+            },
+            "district": 9
+        }
+    ],
+    "governor": {
+        "name": "Mike DeWine",
+        "state": "Ohio"
+    }
+}

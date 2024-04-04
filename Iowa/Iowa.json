@@ -1,0 +1,62 @@
+{
+    "senators": [
+        {
+            "name": "Grassley, Chuck",
+            "state": "Iowa",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 1981
+            }
+        },
+        {
+            "name": "Ernst, Joni",
+            "state": "Iowa",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2015
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Nunn, Zachary",
+            "state": "Iowa",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 3
+        },
+        {
+            "name": "Miller-Meeks, Mariannette",
+            "state": "Iowa",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 1
+        },
+        {
+            "name": "Hinson, Ashley",
+            "state": "Iowa",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 2
+        },
+        {
+            "name": "Feenstra, Randy",
+            "state": "Iowa",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 4
+        }
+    ],
+    "governor": {
+        "name": "Kim Reynolds",
+        "state": "Iowa"
+    }
+}

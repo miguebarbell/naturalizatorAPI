@@ -1,0 +1,134 @@
+{
+    "senators": [
+        {
+            "name": "Menendez, Robert",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2006
+            }
+        },
+        {
+            "name": "Booker, Cory A.",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2013
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Sherrill, Mikie",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 11
+        },
+        {
+            "name": "Watson Coleman, Bonnie",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 12
+        },
+        {
+            "name": "Payne, Donald M.",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2012
+            },
+            "district": 10
+        },
+        {
+            "name": "Pascrell, Bill",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1997
+            },
+            "district": 9
+        },
+        {
+            "name": "Menendez, Robert",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 8
+        },
+        {
+            "name": "Kean, Thomas H.",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 7
+        },
+        {
+            "name": "Kim, Andy",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 3
+        },
+        {
+            "name": "Van Drew, Jefferson",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 2
+        },
+        {
+            "name": "Gottheimer, Josh",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 5
+        },
+        {
+            "name": "Norcross, Donald",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2014
+            },
+            "district": 1
+        },
+        {
+            "name": "Pallone, Frank",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1987
+            },
+            "district": 6
+        },
+        {
+            "name": "Smith, Christopher H.",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1981
+            },
+            "district": 4
+        }
+    ],
+    "governor": {
+        "name": "Phil Murphy",
+        "state": "New Jersey"
+    }
+}

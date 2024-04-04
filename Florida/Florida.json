@@ -1,0 +1,278 @@
+{
+    "senators": [
+        {
+            "name": "Scott, Rick",
+            "state": "Florida",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2019
+            }
+        },
+        {
+            "name": "Rubio, Marco",
+            "state": "Florida",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2011
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Frost, Maxwell",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 10
+        },
+        {
+            "name": "Moskowitz, Jared",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 23
+        },
+        {
+            "name": "Mills, Cory",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 7
+        },
+        {
+            "name": "Luna, Anna Paulina",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 13
+        },
+        {
+            "name": "Lee, Laurel M.",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 15
+        },
+        {
+            "name": "Bean, Aaron",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 4
+        },
+        {
+            "name": "Cherfilus-McCormick, Sheila",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2022
+            },
+            "district": 20
+        },
+        {
+            "name": "Salazar, Maria Elvira",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 27
+        },
+        {
+            "name": "Gimenez, Carlos A.",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 28
+        },
+        {
+            "name": "Donalds, Byron",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 19
+        },
+        {
+            "name": "Cammack, Kat",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 3
+        },
+        {
+            "name": "Steube, W. Gregory",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 17
+        },
+        {
+            "name": "Waltz, Michael",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 6
+        },
+        {
+            "name": "Mast, Brian J.",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 21
+        },
+        {
+            "name": "Soto, Darren",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 9
+        },
+        {
+            "name": "Rutherford, John H.",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 5
+        },
+        {
+            "name": "Dunn, Neal P.",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 2
+        },
+        {
+            "name": "Gaetz, Matt",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 1
+        },
+        {
+            "name": "Frankel, Lois",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 22
+        },
+        {
+            "name": "Wilson, Frederica S.",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 24
+        },
+        {
+            "name": "Webster, Daniel",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 11
+        },
+        {
+            "name": "Buchanan, Vern",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 16
+        },
+        {
+            "name": "Castor, Kathy",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 14
+        },
+        {
+            "name": "Bilirakis, Gus M.",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 12
+        },
+        {
+            "name": "Posey, Bill",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 8
+        },
+        {
+            "name": "Wasserman Schultz, Debbie",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 25
+        },
+        {
+            "name": "Diaz-Balart, Mario",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 26
+        },
+        {
+            "name": "Franklin, C. Scott",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 18
+        }
+    ],
+    "governor": {
+        "name": "Ron DeSantis",
+        "state": "Florida"
+    }
+}

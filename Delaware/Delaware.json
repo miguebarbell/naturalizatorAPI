@@ -1,0 +1,35 @@
+{
+    "senators": [
+        {
+            "name": "Coons, Christopher A.",
+            "state": "Delaware",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2010
+            }
+        },
+        {
+            "name": "Carper, Thomas R.",
+            "state": "Delaware",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2001
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Blunt Rochester, Lisa",
+            "state": "Delaware",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 0
+        }
+    ],
+    "governor": {
+        "name": "John Carney",
+        "state": "Delaware"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "senators": [
+        {
+            "name": "Shaheen, Jeanne",
+            "state": "New Hampshire",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2009
+            }
+        },
+        {
+            "name": "Hassan, Margaret Wood",
+            "state": "New Hampshire",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2017
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Pappas, Chris",
+            "state": "New Hampshire",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 1
+        },
+        {
+            "name": "Kuster, Ann M.",
+            "state": "New Hampshire",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 2
+        }
+    ],
+    "governor": {
+        "name": "Chris Sununu",
+        "state": "New Hampshire"
+    }
+}

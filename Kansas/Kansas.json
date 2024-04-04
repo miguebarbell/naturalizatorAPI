@@ -1,0 +1,62 @@
+{
+    "senators": [
+        {
+            "name": "Marshall, Roger",
+            "state": "Kansas",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2021
+            }
+        },
+        {
+            "name": "Moran, Jerry",
+            "state": "Kansas",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2011
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Mann, Tracey",
+            "state": "Kansas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 1
+        },
+        {
+            "name": "LaTurner, Jake",
+            "state": "Kansas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 2
+        },
+        {
+            "name": "Davids, Sharice",
+            "state": "Kansas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 3
+        },
+        {
+            "name": "Estes, Ron",
+            "state": "Kansas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 4
+        }
+    ],
+    "governor": {
+        "name": "Laura Kelly",
+        "state": "Kansas"
+    }
+}

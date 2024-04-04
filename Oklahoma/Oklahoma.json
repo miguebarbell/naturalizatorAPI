@@ -1,0 +1,71 @@
+{
+    "senators": [
+        {
+            "name": "Mullin, Markwayne",
+            "state": "Oklahoma",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2023
+            }
+        },
+        {
+            "name": "Lankford, James",
+            "state": "Oklahoma",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2015
+            }
+        }
+    ],
+    "representatives": [
+        {
+            "name": "Brecheen, Josh",
+            "state": "Oklahoma",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 2
+        },
+        {
+            "name": "Bice, Stephanie I.",
+            "state": "Oklahoma",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 5
+        },
+        {
+            "name": "Hern, Kevin",
+            "state": "Oklahoma",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2018
+            },
+            "district": 1
+        },
+        {
+            "name": "Lucas, Frank D.",
+            "state": "Oklahoma",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1993
+            },
+            "district": 3
+        },
+        {
+            "name": "Cole, Tom",
+            "state": "Oklahoma",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 4
+        }
+    ],
+    "governor": {
+        "name": "Kevin Stitt",
+        "state": "Oklahoma"
+    }
+}
