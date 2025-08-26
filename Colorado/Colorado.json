@@ -19,6 +19,33 @@
     ],
     "representatives": [
         {
+            "name": "Hurd, Jeff",
+            "state": "Colorado",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 3
+        },
+        {
+            "name": "Evans, Gabe",
+            "state": "Colorado",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 8
+        },
+        {
+            "name": "Crank, Jeff",
+            "state": "Colorado",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 5
+        },
+        {
             "name": "Pettersen, Brittany",
             "state": "Colorado",
             "item": {
@@ -28,22 +55,13 @@
             "district": 7
         },
         {
-            "name": "Caraveo, Yadira",
-            "state": "Colorado",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2023
-            },
-            "district": 8
-        },
-        {
             "name": "Boebert, Lauren",
             "state": "Colorado",
             "item": {
                 "chamber": "House of Representatives",
                 "startYear": 2021
             },
-            "district": 3
+            "district": 4
         },
         {
             "name": "Crow, Jason",
@@ -62,15 +80,6 @@
                 "startYear": 2019
             },
             "district": 2
-        },
-        {
-            "name": "Lamborn, Doug",
-            "state": "Colorado",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2007
-            },
-            "district": 5
         },
         {
             "name": "DeGette, Diana",

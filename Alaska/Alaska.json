@@ -13,17 +13,17 @@
             "state": "Alaska",
             "item": {
                 "chamber": "Senate",
-                "startYear": 2003
+                "startYear": 2002
             }
         }
     ],
     "representatives": [
         {
-            "name": "Peltola, Mary Sattler",
+            "name": "Begich, Nicholas J.",
             "state": "Alaska",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2022
+                "startYear": 2025
             },
             "district": 0
         }

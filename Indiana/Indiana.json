@@ -9,15 +9,33 @@
             }
         },
         {
-            "name": "Braun, Mike",
+            "name": "Banks, Jim",
             "state": "Indiana",
             "item": {
                 "chamber": "Senate",
-                "startYear": 2019
+                "startYear": 2025
             }
         }
     ],
     "representatives": [
+        {
+            "name": "Shreve, Jefferson",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 6
+        },
+        {
+            "name": "Messmer, Mark B.",
+            "state": "Indiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 8
+        },
         {
             "name": "Houchin, Erin",
             "state": "Indiana",
@@ -55,15 +73,6 @@
             "district": 1
         },
         {
-            "name": "Pence, Greg",
-            "state": "Indiana",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2019
-            },
-            "district": 6
-        },
-        {
             "name": "Baird, James R.",
             "state": "Indiana",
             "item": {
@@ -73,22 +82,13 @@
             "district": 4
         },
         {
-            "name": "Banks, Jim",
+            "name": "Stutzman, Marlin A.",
             "state": "Indiana",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2017
+                "startYear": 2025
             },
             "district": 3
-        },
-        {
-            "name": "Bucshon, Larry",
-            "state": "Indiana",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2011
-            },
-            "district": 8
         },
         {
             "name": "Carson, André",
@@ -101,7 +101,7 @@
         }
     ],
     "governor": {
-        "name": "Eric Holcomb",
+        "name": "Mike Braun",
         "state": "Indiana"
     }
 }

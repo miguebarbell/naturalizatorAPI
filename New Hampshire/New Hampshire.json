@@ -19,6 +19,15 @@
     ],
     "representatives": [
         {
+            "name": "Goodlander, Maggie",
+            "state": "New Hampshire",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 2
+        },
+        {
             "name": "Pappas, Chris",
             "state": "New Hampshire",
             "item": {
@@ -26,19 +35,10 @@
                 "startYear": 2019
             },
             "district": 1
-        },
-        {
-            "name": "Kuster, Ann M.",
-            "state": "New Hampshire",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2013
-            },
-            "district": 2
         }
     ],
     "governor": {
-        "name": "Chris Sununu",
+        "name": "Kelly Ayotte",
         "state": "New Hampshire"
     }
 }

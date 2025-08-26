@@ -19,13 +19,13 @@
     ],
     "representatives": [
         {
-            "name": "Johnson, Mike",
+            "name": "Carter, Troy A.",
             "state": "Louisiana",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2017
+                "startYear": 2021
             },
-            "district": 4
+            "district": 2
         },
         {
             "name": "Letlow, Julia",
@@ -37,22 +37,13 @@
             "district": 5
         },
         {
-            "name": "Graves, Garret",
+            "name": "Johnson, Mike",
             "state": "Louisiana",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2015
+                "startYear": 2017
             },
-            "district": 6
-        },
-        {
-            "name": "Carter, Troy A.",
-            "state": "Louisiana",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 2
+            "district": 4
         },
         {
             "name": "Higgins, Clay",
@@ -71,6 +62,15 @@
                 "startYear": 2008
             },
             "district": 1
+        },
+        {
+            "name": "Fields, Cleo",
+            "state": "Louisiana",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 6
         }
     ],
     "governor": {

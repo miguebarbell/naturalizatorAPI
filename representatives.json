@@ -45,15 +45,6 @@
         "district": 12
     },
     {
-        "name": "Allred, Colin Z.",
-        "state": "Texas",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2019
-        },
-        "district": 32
-    },
-    {
         "name": "Amo, Gabe",
         "state": "Rhode Island",
         "item": {
@@ -72,13 +63,13 @@
         "district": 2
     },
     {
-        "name": "Armstrong, Kelly",
-        "state": "North Dakota",
+        "name": "Ansari, Yassamin",
+        "state": "Arizona",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2019
+            "startYear": 2025
         },
-        "district": 0
+        "district": 3
     },
     {
         "name": "Arrington, Jodey C.",
@@ -144,15 +135,6 @@
         "district": 0
     },
     {
-        "name": "Banks, Jim",
-        "state": "Indiana",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2017
-        },
-        "district": 3
-    },
-    {
         "name": "Barr, Andy",
         "state": "Kentucky",
         "item": {
@@ -171,6 +153,24 @@
         "district": 44
     },
     {
+        "name": "Barrett, Tom",
+        "state": "Michigan",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 7
+    },
+    {
+        "name": "Baumgartner, Michael",
+        "state": "Washington",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 5
+    },
+    {
         "name": "Bean, Aaron",
         "state": "Florida",
         "item": {
@@ -187,6 +187,24 @@
             "startYear": 2013
         },
         "district": 3
+    },
+    {
+        "name": "Begich, Nicholas J.",
+        "state": "Alaska",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 0
+    },
+    {
+        "name": "Bell, Wesley",
+        "state": "Missouri",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 1
     },
     {
         "name": "Bentz, Cliff",
@@ -243,6 +261,15 @@
         "district": 5
     },
     {
+        "name": "Biggs, Sheri",
+        "state": "South Carolina",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 3
+    },
+    {
         "name": "Bilirakis, Gus M.",
         "state": "Florida",
         "item": {
@@ -250,15 +277,6 @@
             "startYear": 2007
         },
         "district": 12
-    },
-    {
-        "name": "Bishop, Dan",
-        "state": "North Carolina",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2019
-        },
-        "district": 8
     },
     {
         "name": "Bishop, Sanford D.",
@@ -270,31 +288,13 @@
         "district": 2
     },
     {
-        "name": "Blumenauer, Earl",
-        "state": "Oregon",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 1995
-        },
-        "district": 3
-    },
-    {
-        "name": "Blunt Rochester, Lisa",
-        "state": "Delaware",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2017
-        },
-        "district": 0
-    },
-    {
         "name": "Boebert, Lauren",
         "state": "Colorado",
         "item": {
             "chamber": "House of Representatives",
             "startYear": 2021
         },
-        "district": 3
+        "district": 4
     },
     {
         "name": "Bonamici, Suzanne",
@@ -315,15 +315,6 @@
         "district": 12
     },
     {
-        "name": "Bowman, Jamaal",
-        "state": "New York",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2021
-        },
-        "district": 16
-    },
-    {
         "name": "Boyle, Brendan F.",
         "state": "Pennsylvania",
         "item": {
@@ -340,6 +331,15 @@
             "startYear": 2023
         },
         "district": 2
+    },
+    {
+        "name": "Bresnahan, Robert P.",
+        "state": "Pennsylvania",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 8
     },
     {
         "name": "Brown, Shontel M.",
@@ -369,15 +369,6 @@
         "district": 16
     },
     {
-        "name": "Bucshon, Larry",
-        "state": "Indiana",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2011
-        },
-        "district": 8
-    },
-    {
         "name": "Budzinski, Nikki",
         "state": "Illinois",
         "item": {
@@ -396,15 +387,6 @@
         "district": 2
     },
     {
-        "name": "Burgess, Michael C.",
-        "state": "Texas",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2003
-        },
-        "district": 26
-    },
-    {
         "name": "Burlison, Eric",
         "state": "Missouri",
         "item": {
@@ -414,13 +396,13 @@
         "district": 7
     },
     {
-        "name": "Bush, Cori",
-        "state": "Missouri",
+        "name": "Bynum, Janelle S.",
+        "state": "Oregon",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2021
+            "startYear": 2025
         },
-        "district": 1
+        "district": 5
     },
     {
         "name": "Calvert, Ken",
@@ -441,15 +423,6 @@
         "district": 3
     },
     {
-        "name": "Caraveo, Yadira",
-        "state": "Colorado",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2023
-        },
-        "district": 8
-    },
-    {
         "name": "Carbajal, Salud O.",
         "state": "California",
         "item": {
@@ -466,15 +439,6 @@
             "startYear": 2021
         },
         "district": 15
-    },
-    {
-        "name": "Carl, Jerry L.",
-        "state": "Alabama",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2021
-        },
-        "district": 1
     },
     {
         "name": "Carson, André",
@@ -511,15 +475,6 @@
             "startYear": 2021
         },
         "district": 2
-    },
-    {
-        "name": "Cartwright, Matt",
-        "state": "Pennsylvania",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2013
-        },
-        "district": 8
     },
     {
         "name": "Casar, Greg",
@@ -567,15 +522,6 @@
         "district": 20
     },
     {
-        "name": "Chavez-DeRemer, Lori",
-        "state": "Oregon",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2023
-        },
-        "district": 5
-    },
-    {
         "name": "Cherfilus-McCormick, Sheila",
         "state": "Florida",
         "item": {
@@ -601,6 +547,15 @@
             "startYear": 2023
         },
         "district": 6
+    },
+    {
+        "name": "Cisneros, Gilbert Ray",
+        "state": "California",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 31
     },
     {
         "name": "Clark, Katherine M.",
@@ -702,13 +657,13 @@
         "district": 1
     },
     {
-        "name": "Connolly, Gerald E.",
-        "state": "Virginia",
+        "name": "Conaway, Herbert C.",
+        "state": "New Jersey",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2009
+            "startYear": 2025
         },
-        "district": 11
+        "district": 3
     },
     {
         "name": "Correa, J. Luis",
@@ -756,6 +711,15 @@
         "district": 2
     },
     {
+        "name": "Crank, Jeff",
+        "state": "Colorado",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 5
+    },
+    {
         "name": "Crawford, Eric A. \"Rick\"",
         "state": "Arkansas",
         "item": {
@@ -799,33 +763,6 @@
             "startYear": 2005
         },
         "district": 28
-    },
-    {
-        "name": "Curtis, John R.",
-        "state": "Utah",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2017
-        },
-        "district": 3
-    },
-    {
-        "name": "Cárdenas, Tony",
-        "state": "California",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2013
-        },
-        "district": 29
-    },
-    {
-        "name": "D'Esposito, Anthony",
-        "state": "New York",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2023
-        },
-        "district": 4
     },
     {
         "name": "Davids, Sharice",
@@ -936,6 +873,15 @@
         "district": 4
     },
     {
+        "name": "Dexter, Maxine",
+        "state": "Oregon",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 3
+    },
+    {
         "name": "Diaz-Balart, Mario",
         "state": "Florida",
         "item": {
@@ -972,22 +918,13 @@
         "district": 19
     },
     {
-        "name": "Duarte, John S.",
-        "state": "California",
+        "name": "Downing, Troy",
+        "state": "Montana",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2023
+            "startYear": 2025
         },
-        "district": 13
-    },
-    {
-        "name": "Duncan, Jeff",
-        "state": "South Carolina",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2011
-        },
-        "district": 3
+        "district": 2
     },
     {
         "name": "Dunn, Neal P.",
@@ -1006,6 +943,15 @@
             "startYear": 2023
         },
         "district": 11
+    },
+    {
+        "name": "Elfreth, Sarah",
+        "state": "Maryland",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 3
     },
     {
         "name": "Ellzey, Jake",
@@ -1031,15 +977,6 @@
         "item": {
             "chamber": "House of Representatives",
             "startYear": 2019
-        },
-        "district": 16
-    },
-    {
-        "name": "Eshoo, Anna G.",
-        "state": "California",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 1993
         },
         "district": 16
     },
@@ -1071,6 +1008,15 @@
         "district": 3
     },
     {
+        "name": "Evans, Gabe",
+        "state": "Colorado",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 8
+    },
+    {
         "name": "Ezell, Mike",
         "state": "Mississippi",
         "item": {
@@ -1089,6 +1035,15 @@
         "district": 4
     },
     {
+        "name": "Fedorchak, Julie",
+        "state": "North Dakota",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 0
+    },
+    {
         "name": "Feenstra, Randy",
         "state": "Iowa",
         "item": {
@@ -1098,13 +1053,31 @@
         "district": 4
     },
     {
-        "name": "Ferguson, A. Drew",
-        "state": "Georgia",
+        "name": "Fields, Cleo",
+        "state": "Louisiana",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2017
+            "startYear": 2025
         },
-        "district": 3
+        "district": 6
+    },
+    {
+        "name": "Figures, Shomari",
+        "state": "Alabama",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 2
+    },
+    {
+        "name": "Fine, Randy",
+        "state": "Florida",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 6
     },
     {
         "name": "Finstad, Brad",
@@ -1170,6 +1143,15 @@
         "district": 1
     },
     {
+        "name": "Fong, Vince",
+        "state": "California",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2024
+        },
+        "district": 20
+    },
+    {
         "name": "Foster, Bill",
         "state": "Illinois",
         "item": {
@@ -1206,13 +1188,22 @@
         "district": 22
     },
     {
-        "name": "Franklin, C. Scott",
+        "name": "Franklin, Scott",
         "state": "Florida",
         "item": {
             "chamber": "House of Representatives",
             "startYear": 2021
         },
         "district": 18
+    },
+    {
+        "name": "Friedman, Laura",
+        "state": "California",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 30
     },
     {
         "name": "Frost, Maxwell",
@@ -1242,33 +1233,6 @@
         "district": 1
     },
     {
-        "name": "Gaetz, Matt",
-        "state": "Florida",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2017
-        },
-        "district": 1
-    },
-    {
-        "name": "Gallagher, Mike",
-        "state": "Wisconsin",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2017
-        },
-        "district": 8
-    },
-    {
-        "name": "Gallego, Ruben",
-        "state": "Arizona",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2015
-        },
-        "district": 3
-    },
-    {
         "name": "Garamendi, John",
         "state": "California",
         "item": {
@@ -1285,15 +1249,6 @@
             "startYear": 2021
         },
         "district": 2
-    },
-    {
-        "name": "Garcia, Mike",
-        "state": "California",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2020
-        },
-        "district": 27
     },
     {
         "name": "Garcia, Robert",
@@ -1323,6 +1278,24 @@
         "district": 4
     },
     {
+        "name": "Gill, Brandon",
+        "state": "Texas",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 26
+    },
+    {
+        "name": "Gillen, Laura",
+        "state": "New York",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 4
+    },
+    {
         "name": "Gimenez, Carlos A.",
         "state": "Florida",
         "item": {
@@ -1339,6 +1312,15 @@
             "startYear": 2019
         },
         "district": 2
+    },
+    {
+        "name": "Goldman, Craig A.",
+        "state": "Texas",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 12
     },
     {
         "name": "Goldman, Daniel S.",
@@ -1377,24 +1359,6 @@
         "district": 34
     },
     {
-        "name": "González-Colón, Jenniffer",
-        "state": "Puerto Rico",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2017
-        },
-        "district": 0
-    },
-    {
-        "name": "Good, Bob",
-        "state": "Virginia",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2021
-        },
-        "district": 5
-    },
-    {
         "name": "Gooden, Lance",
         "state": "Texas",
         "item": {
@@ -1402,6 +1366,15 @@
             "startYear": 2019
         },
         "district": 5
+    },
+    {
+        "name": "Goodlander, Maggie",
+        "state": "New Hampshire",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 2
     },
     {
         "name": "Gosar, Paul A.",
@@ -1422,24 +1395,6 @@
         "district": 5
     },
     {
-        "name": "Granger, Kay",
-        "state": "Texas",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 1997
-        },
-        "district": 12
-    },
-    {
-        "name": "Graves, Garret",
-        "state": "Louisiana",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2015
-        },
-        "district": 6
-    },
-    {
         "name": "Graves, Sam",
         "state": "Missouri",
         "item": {
@@ -1449,6 +1404,15 @@
         "district": 6
     },
     {
+        "name": "Gray, Adam",
+        "state": "California",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 13
+    },
+    {
         "name": "Green, Al",
         "state": "Texas",
         "item": {
@@ -1456,15 +1420,6 @@
             "startYear": 2005
         },
         "district": 9
-    },
-    {
-        "name": "Green, Mark E.",
-        "state": "Tennessee",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2019
-        },
-        "district": 7
     },
     {
         "name": "Greene, Marjorie Taylor",
@@ -1483,15 +1438,6 @@
             "startYear": 2011
         },
         "district": 9
-    },
-    {
-        "name": "Grijalva, Raúl M.",
-        "state": "Arizona",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2003
-        },
-        "district": 7
     },
     {
         "name": "Grothman, Glenn",
@@ -1530,6 +1476,15 @@
         "district": 0
     },
     {
+        "name": "Hamadeh, Abraham J.",
+        "state": "Arizona",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 8
+    },
+    {
         "name": "Harder, Josh",
         "state": "California",
         "item": {
@@ -1539,6 +1494,24 @@
         "district": 9
     },
     {
+        "name": "Haridopolos, Mike",
+        "state": "Florida",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 8
+    },
+    {
+        "name": "Harrigan, Pat",
+        "state": "North Carolina",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 10
+    },
+    {
         "name": "Harris, Andy",
         "state": "Maryland",
         "item": {
@@ -1546,6 +1519,15 @@
             "startYear": 2011
         },
         "district": 1
+    },
+    {
+        "name": "Harris, Mark",
+        "state": "North Carolina",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 8
     },
     {
         "name": "Harshbarger, Diana",
@@ -1573,6 +1555,15 @@
             "startYear": 2018
         },
         "district": 1
+    },
+    {
+        "name": "Hernández, Pablo Jose",
+        "state": "Puerto Rico",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 0
     },
     {
         "name": "Higgins, Clay",
@@ -1692,6 +1683,15 @@
         "district": 38
     },
     {
+        "name": "Hurd, Jeff",
+        "state": "Colorado",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 3
+    },
+    {
         "name": "Issa, Darrell",
         "state": "California",
         "item": {
@@ -1710,22 +1710,13 @@
         "district": 4
     },
     {
-        "name": "Jackson Lee, Sheila",
-        "state": "Texas",
+        "name": "Jack, Brian",
+        "state": "Georgia",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 1995
+            "startYear": 2025
         },
-        "district": 18
-    },
-    {
-        "name": "Jackson, Jeff",
-        "state": "North Carolina",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2023
-        },
-        "district": 14
+        "district": 3
     },
     {
         "name": "Jackson, Jonathan L.",
@@ -1798,6 +1789,15 @@
             "startYear": 2007
         },
         "district": 4
+    },
+    {
+        "name": "Johnson, Julie",
+        "state": "Texas",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 32
     },
     {
         "name": "Johnson, Mike",
@@ -1899,6 +1899,24 @@
         "district": 1
     },
     {
+        "name": "Kennedy, Mike",
+        "state": "Utah",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 3
+    },
+    {
+        "name": "Kennedy, Timothy M.",
+        "state": "New York",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2024
+        },
+        "district": 26
+    },
+    {
         "name": "Khanna, Ro",
         "state": "California",
         "item": {
@@ -1917,38 +1935,11 @@
         "district": 2
     },
     {
-        "name": "Kildee, Daniel T.",
-        "state": "Michigan",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2013
-        },
-        "district": 8
-    },
-    {
         "name": "Kiley, Kevin",
         "state": "California",
         "item": {
             "chamber": "House of Representatives",
             "startYear": 2023
-        },
-        "district": 3
-    },
-    {
-        "name": "Kilmer, Derek",
-        "state": "Washington",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2013
-        },
-        "district": 6
-    },
-    {
-        "name": "Kim, Andy",
-        "state": "New Jersey",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2019
         },
         "district": 3
     },
@@ -1962,6 +1953,24 @@
         "district": 40
     },
     {
+        "name": "King-Hinds, Kimberlyn",
+        "state": "Northern Mariana Islands",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 0
+    },
+    {
+        "name": "Knott, Brad",
+        "state": "North Carolina",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 13
+    },
+    {
         "name": "Krishnamoorthi, Raja",
         "state": "Illinois",
         "item": {
@@ -1969,15 +1978,6 @@
             "startYear": 2017
         },
         "district": 8
-    },
-    {
-        "name": "Kuster, Ann M.",
-        "state": "New Hampshire",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2013
-        },
-        "district": 2
     },
     {
         "name": "Kustoff, David",
@@ -2016,15 +2016,6 @@
         "district": 1
     },
     {
-        "name": "Lamborn, Doug",
-        "state": "Colorado",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2007
-        },
-        "district": 5
-    },
-    {
         "name": "Landsman, Greg",
         "state": "Ohio",
         "item": {
@@ -2061,6 +2052,15 @@
         "district": 1
     },
     {
+        "name": "Latimer, George",
+        "state": "New York",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 16
+    },
+    {
         "name": "Latta, Robert E.",
         "state": "Ohio",
         "item": {
@@ -2070,15 +2070,6 @@
         "district": 5
     },
     {
-        "name": "LaTurner, Jake",
-        "state": "Kansas",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2021
-        },
-        "district": 2
-    },
-    {
         "name": "Lawler, Michael",
         "state": "New York",
         "item": {
@@ -2086,15 +2077,6 @@
             "startYear": 2023
         },
         "district": 17
-    },
-    {
-        "name": "Lee, Barbara",
-        "state": "California",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 1997
-        },
-        "district": 12
     },
     {
         "name": "Lee, Laurel M.",
@@ -2133,15 +2115,6 @@
         "district": 3
     },
     {
-        "name": "Lesko, Debbie",
-        "state": "Arizona",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2018
-        },
-        "district": 8
-    },
-    {
         "name": "Letlow, Julia",
         "state": "Louisiana",
         "item": {
@@ -2158,6 +2131,15 @@
             "startYear": 2019
         },
         "district": 49
+    },
+    {
+        "name": "Liccardo, Sam T.",
+        "state": "California",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 16
     },
     {
         "name": "Lieu, Ted",
@@ -2192,15 +2174,6 @@
         "item": {
             "chamber": "House of Representatives",
             "startYear": 1993
-        },
-        "district": 3
-    },
-    {
-        "name": "Luetkemeyer, Blaine",
-        "state": "Missouri",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2009
         },
         "district": 3
     },
@@ -2241,6 +2214,15 @@
         "district": 1
     },
     {
+        "name": "Mackenzie, Ryan",
+        "state": "Pennsylvania",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 7
+    },
+    {
         "name": "Magaziner, Seth",
         "state": "Rhode Island",
         "item": {
@@ -2277,13 +2259,13 @@
         "district": 1
     },
     {
-        "name": "Manning, Kathy E.",
-        "state": "North Carolina",
+        "name": "Mannion, John W.",
+        "state": "New York",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2021
+            "startYear": 2025
         },
-        "district": 6
+        "district": 22
     },
     {
         "name": "Massie, Thomas",
@@ -2319,7 +2301,16 @@
             "chamber": "House of Representatives",
             "startYear": 2019
         },
-        "district": 7
+        "district": 6
+    },
+    {
+        "name": "McBride, Sarah",
+        "state": "Delaware",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 0
     },
     {
         "name": "McCaul, Michael T.",
@@ -2329,6 +2320,15 @@
             "startYear": 2005
         },
         "district": 10
+    },
+    {
+        "name": "McClain Delaney, April",
+        "state": "Maryland",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 6
     },
     {
         "name": "McClain, Lisa C.",
@@ -2373,6 +2373,24 @@
             "chamber": "House of Representatives",
             "startYear": 2023
         },
+        "district": 7
+    },
+    {
+        "name": "McDonald Rivet, Kristen",
+        "state": "Michigan",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 8
+    },
+    {
+        "name": "McDowell, Addison P.",
+        "state": "North Carolina",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
         "district": 6
     },
     {
@@ -2394,22 +2412,22 @@
         "district": 2
     },
     {
-        "name": "McHenry, Patrick T.",
-        "state": "North Carolina",
+        "name": "McGuire, John J.",
+        "state": "Virginia",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2005
-        },
-        "district": 10
-    },
-    {
-        "name": "McMorris Rodgers, Cathy",
-        "state": "Washington",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2005
+            "startYear": 2025
         },
         "district": 5
+    },
+    {
+        "name": "McIver, LaMonica",
+        "state": "New Jersey",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2024
+        },
+        "district": 10
     },
     {
         "name": "Meeks, Gregory W.",
@@ -2437,6 +2455,15 @@
             "startYear": 2013
         },
         "district": 6
+    },
+    {
+        "name": "Messmer, Mark B.",
+        "state": "Indiana",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 8
     },
     {
         "name": "Meuser, Daniel",
@@ -2502,26 +2529,17 @@
         "district": 7
     },
     {
-        "name": "Molinaro, Marcus J.",
-        "state": "New York",
+        "name": "Min, Dave",
+        "state": "California",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2023
+            "startYear": 2025
         },
-        "district": 19
+        "district": 47
     },
     {
         "name": "Moolenaar, John R.",
         "state": "Michigan",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2015
-        },
-        "district": 2
-    },
-    {
-        "name": "Mooney, Alexander X.",
-        "state": "West Virginia",
         "item": {
             "chamber": "House of Representatives",
             "startYear": 2015
@@ -2535,7 +2553,7 @@
             "chamber": "House of Representatives",
             "startYear": 2021
         },
-        "district": 2
+        "district": 1
     },
     {
         "name": "Moore, Blake D.",
@@ -2556,6 +2574,24 @@
         "district": 4
     },
     {
+        "name": "Moore, Riley M.",
+        "state": "West Virginia",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 2
+    },
+    {
+        "name": "Moore, Tim",
+        "state": "North Carolina",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 14
+    },
+    {
         "name": "Moran, Nathaniel",
         "state": "Texas",
         "item": {
@@ -2572,6 +2608,15 @@
             "startYear": 2018
         },
         "district": 25
+    },
+    {
+        "name": "Morrison, Kelly",
+        "state": "Minnesota",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 3
     },
     {
         "name": "Moskowitz, Jared",
@@ -2637,15 +2682,6 @@
         "district": 12
     },
     {
-        "name": "Napolitano, Grace F.",
-        "state": "California",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 1999
-        },
-        "district": 31
-    },
-    {
         "name": "Neal, Richard E.",
         "state": "Massachusetts",
         "item": {
@@ -2680,15 +2716,6 @@
             "startYear": 2015
         },
         "district": 4
-    },
-    {
-        "name": "Nickel, Wiley",
-        "state": "North Carolina",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2023
-        },
-        "district": 13
     },
     {
         "name": "Norcross, Donald",
@@ -2754,6 +2781,15 @@
         "district": 5
     },
     {
+        "name": "Olszewski, Johnny",
+        "state": "Maryland",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 2
+    },
+    {
         "name": "Omar, Ilhan",
         "state": "Minnesota",
         "item": {
@@ -2761,6 +2797,15 @@
             "startYear": 2019
         },
         "district": 5
+    },
+    {
+        "name": "Onder, Robert F.",
+        "state": "Missouri",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 3
     },
     {
         "name": "Owens, Burgess",
@@ -2808,22 +2853,13 @@
         "district": 1
     },
     {
-        "name": "Pascrell, Bill",
-        "state": "New Jersey",
+        "name": "Patronis, Jimmy",
+        "state": "Florida",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 1997
+            "startYear": 2025
         },
-        "district": 9
-    },
-    {
-        "name": "Payne, Donald M.",
-        "state": "New Jersey",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2012
-        },
-        "district": 10
+        "district": 1
     },
     {
         "name": "Pelosi, Nancy",
@@ -2833,24 +2869,6 @@
             "startYear": 1987
         },
         "district": 11
-    },
-    {
-        "name": "Peltola, Mary Sattler",
-        "state": "Alaska",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2022
-        },
-        "district": 0
-    },
-    {
-        "name": "Pence, Greg",
-        "state": "Indiana",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2019
-        },
-        "district": 6
     },
     {
         "name": "Perez, Marie Gluesenkamp",
@@ -2898,15 +2916,6 @@
         "district": 11
     },
     {
-        "name": "Phillips, Dean",
-        "state": "Minnesota",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2019
-        },
-        "district": 3
-    },
-    {
         "name": "Pingree, Chellie",
         "state": "Maine",
         "item": {
@@ -2934,22 +2943,13 @@
         "district": 2
     },
     {
-        "name": "Porter, Katie",
-        "state": "California",
+        "name": "Pou, Nellie",
+        "state": "New Jersey",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2019
+            "startYear": 2025
         },
-        "district": 47
-    },
-    {
-        "name": "Posey, Bill",
-        "state": "Florida",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2009
-        },
-        "district": 8
+        "district": 9
     },
     {
         "name": "Pressley, Ayanna",
@@ -2988,6 +2988,15 @@
         "district": 3
     },
     {
+        "name": "Randall, Emily",
+        "state": "Washington",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 6
+    },
+    {
         "name": "Raskin, Jamie",
         "state": "Maryland",
         "item": {
@@ -3004,6 +3013,24 @@
             "startYear": 2019
         },
         "district": 14
+    },
+    {
+        "name": "Riley, Josh",
+        "state": "New York",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 19
+    },
+    {
+        "name": "Rivas, Luz M.",
+        "state": "California",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 29
     },
     {
         "name": "Rogers, Harold",
@@ -3031,15 +3058,6 @@
             "startYear": 2019
         },
         "district": 6
-    },
-    {
-        "name": "Rosendale, Matthew M.",
-        "state": "Montana",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2021
-        },
-        "district": 2
     },
     {
         "name": "Ross, Deborah K.",
@@ -3078,13 +3096,13 @@
         "district": 25
     },
     {
-        "name": "Ruppersberger, C. A. Dutch",
-        "state": "Maryland",
+        "name": "Rulli, Michael A.",
+        "state": "Ohio",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2003
+            "startYear": 2024
         },
-        "district": 2
+        "district": 6
     },
     {
         "name": "Rutherford, John H.",
@@ -3105,15 +3123,6 @@
         "district": 18
     },
     {
-        "name": "Sablan, Gregorio Kilili Camacho",
-        "state": "Northern Mariana Islands",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2009
-        },
-        "district": 0
-    },
-    {
         "name": "Salazar, Maria Elvira",
         "state": "Florida",
         "item": {
@@ -3130,15 +3139,6 @@
             "startYear": 2023
         },
         "district": 6
-    },
-    {
-        "name": "Sarbanes, John P.",
-        "state": "Maryland",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2007
-        },
-        "district": 3
     },
     {
         "name": "Scalise, Steve",
@@ -3168,13 +3168,13 @@
         "district": 9
     },
     {
-        "name": "Schiff, Adam B.",
-        "state": "California",
+        "name": "Schmidt, Derek",
+        "state": "Kansas",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2001
+            "startYear": 2025
         },
-        "district": 30
+        "district": 2
     },
     {
         "name": "Schneider, Bradley Scott",
@@ -3285,6 +3285,24 @@
         "district": 11
     },
     {
+        "name": "Shreve, Jefferson",
+        "state": "Indiana",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 6
+    },
+    {
+        "name": "Simon, Lateefah",
+        "state": "California",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 12
+    },
+    {
         "name": "Simpson, Michael K.",
         "state": "Idaho",
         "item": {
@@ -3292,15 +3310,6 @@
             "startYear": 1999
         },
         "district": 2
-    },
-    {
-        "name": "Slotkin, Elissa",
-        "state": "Michigan",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2019
-        },
-        "district": 7
     },
     {
         "name": "Smith, Adam",
@@ -3366,15 +3375,6 @@
         "district": 9
     },
     {
-        "name": "Spanberger, Abigail Davis",
-        "state": "Virginia",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2019
-        },
-        "district": 7
-    },
-    {
         "name": "Spartz, Victoria",
         "state": "Indiana",
         "item": {
@@ -3409,15 +3409,6 @@
             "startYear": 2019
         },
         "district": 8
-    },
-    {
-        "name": "Steel, Michelle",
-        "state": "California",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2021
-        },
-        "district": 45
     },
     {
         "name": "Stefanik, Elise M.",
@@ -3474,6 +3465,24 @@
         "district": 5
     },
     {
+        "name": "Stutzman, Marlin A.",
+        "state": "Indiana",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 3
+    },
+    {
+        "name": "Subramanyam, Suhas",
+        "state": "Virginia",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 10
+    },
+    {
         "name": "Suozzi, Thomas R.",
         "state": "New York",
         "item": {
@@ -3517,6 +3526,15 @@
             "startYear": 2013
         },
         "district": 39
+    },
+    {
+        "name": "Taylor, David J.",
+        "state": "Ohio",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 2
     },
     {
         "name": "Tenney, Claudia",
@@ -3645,13 +3663,13 @@
         "district": 3
     },
     {
-        "name": "Trone, David J.",
-        "state": "Maryland",
+        "name": "Tran, Derek",
+        "state": "California",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2019
+            "startYear": 2025
         },
-        "district": 6
+        "district": 45
     },
     {
         "name": "Turner, Michael R.",
@@ -3744,6 +3762,15 @@
         "district": 7
     },
     {
+        "name": "Vindman, Eugene Simon",
+        "state": "Virginia",
+        "item": {
+            "chamber": "House of Representatives",
+            "startYear": 2025
+        },
+        "district": 7
+    },
+    {
         "name": "Wagner, Ann",
         "state": "Missouri",
         "item": {
@@ -3760,15 +3787,6 @@
             "startYear": 2011
         },
         "district": 5
-    },
-    {
-        "name": "Waltz, Michael",
-        "state": "Florida",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2019
-        },
-        "district": 6
     },
     {
         "name": "Wasserman Schultz, Debbie",
@@ -3798,7 +3816,7 @@
         "district": 12
     },
     {
-        "name": "Weber, Randy K.",
+        "name": "Weber, Randy K. Sr.",
         "state": "Texas",
         "item": {
             "chamber": "House of Representatives",
@@ -3816,15 +3834,6 @@
         "district": 11
     },
     {
-        "name": "Wenstrup, Brad R.",
-        "state": "Ohio",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2013
-        },
-        "district": 2
-    },
-    {
         "name": "Westerman, Bruce",
         "state": "Arkansas",
         "item": {
@@ -3834,31 +3843,22 @@
         "district": 4
     },
     {
-        "name": "Wexton, Jennifer",
-        "state": "Virginia",
+        "name": "Whitesides, George",
+        "state": "California",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2019
+            "startYear": 2025
         },
-        "district": 10
+        "district": 27
     },
     {
-        "name": "Wild, Susan",
-        "state": "Pennsylvania",
+        "name": "Wied, Tony",
+        "state": "Wisconsin",
         "item": {
             "chamber": "House of Representatives",
-            "startYear": 2018
+            "startYear": 2024
         },
-        "district": 7
-    },
-    {
-        "name": "Williams, Brandon",
-        "state": "New York",
-        "item": {
-            "chamber": "House of Representatives",
-            "startYear": 2023
-        },
-        "district": 22
+        "district": 8
     },
     {
         "name": "Williams, Nikema",

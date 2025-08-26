@@ -19,15 +19,6 @@
     ],
     "representatives": [
         {
-            "name": "Keating, William R.",
-            "state": "Massachusetts",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2011
-            },
-            "district": 9
-        },
-        {
             "name": "Auchincloss, Jake",
             "state": "Massachusetts",
             "item": {
@@ -71,6 +62,15 @@
                 "startYear": 2013
             },
             "district": 5
+        },
+        {
+            "name": "Keating, William R.",
+            "state": "Massachusetts",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 9
         },
         {
             "name": "McGovern, James P.",

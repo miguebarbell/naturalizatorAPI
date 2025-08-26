@@ -1,10 +1,26 @@
 [
     {
+        "name": "Alsobrooks, Angela D.",
+        "state": "Maryland",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2025
+        }
+    },
+    {
         "name": "Baldwin, Tammy",
         "state": "Wisconsin",
         "item": {
             "chamber": "Senate",
             "startYear": 2013
+        }
+    },
+    {
+        "name": "Banks, Jim",
+        "state": "Indiana",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2025
         }
     },
     {
@@ -40,6 +56,14 @@
         }
     },
     {
+        "name": "Blunt Rochester, Lisa",
+        "state": "Delaware",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2025
+        }
+    },
+    {
         "name": "Booker, Cory A.",
         "state": "New Jersey",
         "item": {
@@ -56,14 +80,6 @@
         }
     },
     {
-        "name": "Braun, Mike",
-        "state": "Indiana",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2019
-        }
-    },
-    {
         "name": "Britt, Katie Boyd",
         "state": "Alabama",
         "item": {
@@ -72,24 +88,8 @@
         }
     },
     {
-        "name": "Brown, Sherrod",
-        "state": "Ohio",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2007
-        }
-    },
-    {
         "name": "Budd, Ted",
         "state": "North Carolina",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2023
-        }
-    },
-    {
-        "name": "Butler, Laphonza R.",
-        "state": "California",
         "item": {
             "chamber": "Senate",
             "startYear": 2023
@@ -109,30 +109,6 @@
         "item": {
             "chamber": "Senate",
             "startYear": 2015
-        }
-    },
-    {
-        "name": "Cardin, Benjamin L.",
-        "state": "Maryland",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2007
-        }
-    },
-    {
-        "name": "Carper, Thomas R.",
-        "state": "Delaware",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2001
-        }
-    },
-    {
-        "name": "Casey, Robert P., Jr.",
-        "state": "Pennsylvania",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2007
         }
     },
     {
@@ -208,6 +184,14 @@
         }
     },
     {
+        "name": "Curtis, John R.",
+        "state": "Utah",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2025
+        }
+    },
+    {
         "name": "Daines, Steve",
         "state": "Montana",
         "item": {
@@ -253,6 +237,14 @@
         "item": {
             "chamber": "Senate",
             "startYear": 2013
+        }
+    },
+    {
+        "name": "Gallego, Ruben",
+        "state": "Arizona",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2025
         }
     },
     {
@@ -336,6 +328,14 @@
         }
     },
     {
+        "name": "Husted, Jon",
+        "state": "Ohio",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2025
+        }
+    },
+    {
         "name": "Hyde-Smith, Cindy",
         "state": "Mississippi",
         "item": {
@@ -349,6 +349,14 @@
         "item": {
             "chamber": "Senate",
             "startYear": 2011
+        }
+    },
+    {
+        "name": "Justice, James C.",
+        "state": "West Virginia",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2025
         }
     },
     {
@@ -373,6 +381,14 @@
         "item": {
             "chamber": "Senate",
             "startYear": 2017
+        }
+    },
+    {
+        "name": "Kim, Andy",
+        "state": "New Jersey",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2024
         }
     },
     {
@@ -408,7 +424,7 @@
         }
     },
     {
-        "name": "Lujan, Ben Ray",
+        "name": "Luján, Ben Ray",
         "state": "New Mexico",
         "item": {
             "chamber": "Senate",
@@ -421,14 +437,6 @@
         "item": {
             "chamber": "Senate",
             "startYear": 2021
-        }
-    },
-    {
-        "name": "Manchin, Joe, III",
-        "state": "West Virginia",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2010
         }
     },
     {
@@ -456,11 +464,11 @@
         }
     },
     {
-        "name": "Menendez, Robert",
-        "state": "New Jersey",
+        "name": "McCormick, David",
+        "state": "Pennsylvania",
         "item": {
             "chamber": "Senate",
-            "startYear": 2006
+            "startYear": 2025
         }
     },
     {
@@ -472,11 +480,27 @@
         }
     },
     {
+        "name": "Moody, Ashley",
+        "state": "Florida",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2025
+        }
+    },
+    {
         "name": "Moran, Jerry",
         "state": "Kansas",
         "item": {
             "chamber": "Senate",
             "startYear": 2011
+        }
+    },
+    {
+        "name": "Moreno, Bernie",
+        "state": "Ohio",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2025
         }
     },
     {
@@ -492,7 +516,7 @@
         "state": "Alaska",
         "item": {
             "chamber": "Senate",
-            "startYear": 2003
+            "startYear": 2002
         }
     },
     {
@@ -568,14 +592,6 @@
         }
     },
     {
-        "name": "Romney, Mitt",
-        "state": "Utah",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2019
-        }
-    },
-    {
         "name": "Rosen, Jacky",
         "state": "Nevada",
         "item": {
@@ -592,14 +608,6 @@
         }
     },
     {
-        "name": "Rubio, Marco",
-        "state": "Florida",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2011
-        }
-    },
-    {
         "name": "Sanders, Bernard",
         "state": "Vermont",
         "item": {
@@ -613,6 +621,14 @@
         "item": {
             "chamber": "Senate",
             "startYear": 2012
+        }
+    },
+    {
+        "name": "Schiff, Adam B.",
+        "state": "California",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2024
         }
     },
     {
@@ -656,11 +672,19 @@
         }
     },
     {
-        "name": "Sinema, Kyrsten",
-        "state": "Arizona",
+        "name": "Sheehy, Tim",
+        "state": "Montana",
         "item": {
             "chamber": "Senate",
-            "startYear": 2019
+            "startYear": 2025
+        }
+    },
+    {
+        "name": "Slotkin, Elissa",
+        "state": "Michigan",
+        "item": {
+            "chamber": "Senate",
+            "startYear": 2025
         }
     },
     {
@@ -672,27 +696,11 @@
         }
     },
     {
-        "name": "Stabenow, Debbie",
-        "state": "Michigan",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2001
-        }
-    },
-    {
         "name": "Sullivan, Dan",
         "state": "Alaska",
         "item": {
             "chamber": "Senate",
             "startYear": 2015
-        }
-    },
-    {
-        "name": "Tester, Jon",
-        "state": "Montana",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2007
         }
     },
     {
@@ -725,14 +733,6 @@
         "item": {
             "chamber": "Senate",
             "startYear": 2017
-        }
-    },
-    {
-        "name": "Vance, J. D.",
-        "state": "Ohio",
-        "item": {
-            "chamber": "Senate",
-            "startYear": 2023
         }
     },
     {

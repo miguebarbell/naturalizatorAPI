@@ -19,6 +19,15 @@
     ],
     "representatives": [
         {
+            "name": "Schmidt, Derek",
+            "state": "Kansas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 2
+        },
+        {
             "name": "Mann, Tracey",
             "state": "Kansas",
             "item": {
@@ -26,15 +35,6 @@
                 "startYear": 2021
             },
             "district": 1
-        },
-        {
-            "name": "LaTurner, Jake",
-            "state": "Kansas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 2
         },
         {
             "name": "Davids, Sharice",

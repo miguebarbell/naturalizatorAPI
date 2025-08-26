@@ -19,6 +19,33 @@
     ],
     "representatives": [
         {
+            "name": "Vindman, Eugene Simon",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 7
+        },
+        {
+            "name": "Subramanyam, Suhas",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 10
+        },
+        {
+            "name": "McGuire, John J.",
+            "state": "Virginia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 5
+        },
+        {
             "name": "McClellan, Jennifer L.",
             "state": "Virginia",
             "item": {
@@ -35,33 +62,6 @@
                 "startYear": 2023
             },
             "district": 2
-        },
-        {
-            "name": "Good, Bob",
-            "state": "Virginia",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 5
-        },
-        {
-            "name": "Wexton, Jennifer",
-            "state": "Virginia",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2019
-            },
-            "district": 10
-        },
-        {
-            "name": "Spanberger, Abigail Davis",
-            "state": "Virginia",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2019
-            },
-            "district": 7
         },
         {
             "name": "Cline, Ben",
@@ -98,15 +98,6 @@
                 "startYear": 2011
             },
             "district": 9
-        },
-        {
-            "name": "Connolly, Gerald E.",
-            "state": "Virginia",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2009
-            },
-            "district": 11
         },
         {
             "name": "Scott, Robert C. \"Bobby\"",

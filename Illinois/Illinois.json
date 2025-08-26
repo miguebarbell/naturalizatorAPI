@@ -55,15 +55,6 @@
             "district": 14
         },
         {
-            "name": "Krishnamoorthi, Raja",
-            "state": "Illinois",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2017
-            },
-            "district": 8
-        },
-        {
             "name": "LaHood, Darin",
             "state": "Illinois",
             "item": {
@@ -80,33 +71,6 @@
                 "startYear": 2015
             },
             "district": 12
-        },
-        {
-            "name": "Schneider, Bradley Scott",
-            "state": "Illinois",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2017
-            },
-            "district": 10
-        },
-        {
-            "name": "Foster, Bill",
-            "state": "Illinois",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2013
-            },
-            "district": 11
-        },
-        {
-            "name": "Schakowsky, Janice D.",
-            "state": "Illinois",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 1999
-            },
-            "district": 9
         },
         {
             "name": "Ramirez, Delia C.",
@@ -145,6 +109,24 @@
             "district": 4
         },
         {
+            "name": "Krishnamoorthi, Raja",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 8
+        },
+        {
+            "name": "Schneider, Bradley Scott",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 10
+        },
+        {
             "name": "Quigley, Mike",
             "state": "Illinois",
             "item": {
@@ -154,6 +136,15 @@
             "district": 5
         },
         {
+            "name": "Foster, Bill",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 11
+        },
+        {
             "name": "Kelly, Robin L.",
             "state": "Illinois",
             "item": {
@@ -161,6 +152,15 @@
                 "startYear": 2013
             },
             "district": 2
+        },
+        {
+            "name": "Schakowsky, Janice D.",
+            "state": "Illinois",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 1999
+            },
+            "district": 9
         },
         {
             "name": "Davis, Danny K.",

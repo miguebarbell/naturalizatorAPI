@@ -1,32 +1,23 @@
 {
     "senators": [
         {
+            "name": "McCormick, David",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "Senate",
+                "startYear": 2025
+            }
+        },
+        {
             "name": "Fetterman, John",
             "state": "Pennsylvania",
             "item": {
                 "chamber": "Senate",
                 "startYear": 2023
             }
-        },
-        {
-            "name": "Casey, Robert P., Jr.",
-            "state": "Pennsylvania",
-            "item": {
-                "chamber": "Senate",
-                "startYear": 2007
-            }
         }
     ],
     "representatives": [
-        {
-            "name": "Cartwright, Matt",
-            "state": "Pennsylvania",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2013
-            },
-            "district": 8
-        },
         {
             "name": "Lee, Summer L.",
             "state": "Pennsylvania",
@@ -64,6 +55,42 @@
             "district": 13
         },
         {
+            "name": "Kelly, Mike",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 16
+        },
+        {
+            "name": "Thompson, Glenn",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 15
+        },
+        {
+            "name": "Mackenzie, Ryan",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 7
+        },
+        {
+            "name": "Bresnahan, Robert P.",
+            "state": "Pennsylvania",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 8
+        },
+        {
             "name": "Meuser, Daniel",
             "state": "Pennsylvania",
             "item": {
@@ -89,15 +116,6 @@
                 "startYear": 2019
             },
             "district": 4
-        },
-        {
-            "name": "Wild, Susan",
-            "state": "Pennsylvania",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2018
-            },
-            "district": 7
         },
         {
             "name": "Scanlon, Mary Gay",
@@ -152,24 +170,6 @@
                 "startYear": 2013
             },
             "district": 10
-        },
-        {
-            "name": "Kelly, Mike",
-            "state": "Pennsylvania",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2011
-            },
-            "district": 16
-        },
-        {
-            "name": "Thompson, Glenn",
-            "state": "Pennsylvania",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2009
-            },
-            "district": 15
         }
     ],
     "governor": {

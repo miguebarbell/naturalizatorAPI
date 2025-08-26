@@ -19,31 +19,49 @@
     ],
     "representatives": [
         {
-            "name": "Murphy, Gregory F.",
+            "name": "McDowell, Addison P.",
             "state": "North Carolina",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2019
+                "startYear": 2025
             },
-            "district": 3
+            "district": 6
         },
         {
-            "name": "Nickel, Wiley",
+            "name": "Moore, Tim",
             "state": "North Carolina",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2023
+                "startYear": 2025
+            },
+            "district": 14
+        },
+        {
+            "name": "Knott, Brad",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
             },
             "district": 13
         },
         {
-            "name": "Jackson, Jeff",
+            "name": "Harris, Mark",
             "state": "North Carolina",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2023
+                "startYear": 2025
             },
-            "district": 14
+            "district": 8
+        },
+        {
+            "name": "Harrigan, Pat",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 10
         },
         {
             "name": "Foushee, Valerie P.",
@@ -64,22 +82,31 @@
             "district": 11
         },
         {
-            "name": "Manning, Kathy E.",
+            "name": "Davis, Donald G.",
+            "state": "North Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 1
+        },
+        {
+            "name": "Ross, Deborah K.",
             "state": "North Carolina",
             "item": {
                 "chamber": "House of Representatives",
                 "startYear": 2021
             },
-            "district": 6
+            "district": 2
         },
         {
-            "name": "Bishop, Dan",
+            "name": "Murphy, Gregory F.",
             "state": "North Carolina",
             "item": {
                 "chamber": "House of Representatives",
                 "startYear": 2019
             },
-            "district": 8
+            "district": 3
         },
         {
             "name": "Rouzer, David",
@@ -109,15 +136,6 @@
             "district": 9
         },
         {
-            "name": "McHenry, Patrick T.",
-            "state": "North Carolina",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2005
-            },
-            "district": 10
-        },
-        {
             "name": "Foxx, Virginia",
             "state": "North Carolina",
             "item": {
@@ -125,28 +143,10 @@
                 "startYear": 2005
             },
             "district": 5
-        },
-        {
-            "name": "Davis, Donald G.",
-            "state": "North Carolina",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2023
-            },
-            "district": 1
-        },
-        {
-            "name": "Ross, Deborah K.",
-            "state": "North Carolina",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 2
         }
     ],
     "governor": {
-        "name": "Roy Cooper",
+        "name": "Josh Stein",
         "state": "North Carolina"
     }
 }

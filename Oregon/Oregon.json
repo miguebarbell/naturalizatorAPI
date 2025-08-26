@@ -19,6 +19,24 @@
     ],
     "representatives": [
         {
+            "name": "Dexter, Maxine",
+            "state": "Oregon",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 3
+        },
+        {
+            "name": "Bynum, Janelle S.",
+            "state": "Oregon",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 5
+        },
+        {
             "name": "Salinas, Andrea",
             "state": "Oregon",
             "item": {
@@ -37,15 +55,6 @@
             "district": 4
         },
         {
-            "name": "Chavez-DeRemer, Lori",
-            "state": "Oregon",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2023
-            },
-            "district": 5
-        },
-        {
             "name": "Bentz, Cliff",
             "state": "Oregon",
             "item": {
@@ -62,15 +71,6 @@
                 "startYear": 2012
             },
             "district": 1
-        },
-        {
-            "name": "Blumenauer, Earl",
-            "state": "Oregon",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 1995
-            },
-            "district": 3
         }
     ],
     "governor": {

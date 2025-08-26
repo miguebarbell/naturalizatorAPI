@@ -19,6 +19,15 @@
     ],
     "representatives": [
         {
+            "name": "Smith, Adrian",
+            "state": "Nebraska",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2007
+            },
+            "district": 3
+        },
+        {
             "name": "Flood, Mike",
             "state": "Nebraska",
             "item": {
@@ -35,15 +44,6 @@
                 "startYear": 2017
             },
             "district": 2
-        },
-        {
-            "name": "Smith, Adrian",
-            "state": "Nebraska",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2007
-            },
-            "district": 3
         }
     ],
     "governor": {

@@ -19,6 +19,33 @@
     ],
     "representatives": [
         {
+            "name": "Randall, Emily",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 6
+        },
+        {
+            "name": "Baumgartner, Michael",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 5
+        },
+        {
+            "name": "Perez, Marie Gluesenkamp",
+            "state": "Washington",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 3
+        },
+        {
             "name": "Strickland, Marilyn",
             "state": "Washington",
             "item": {
@@ -46,24 +73,6 @@
             "district": 7
         },
         {
-            "name": "Smith, Adam",
-            "state": "Washington",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 1997
-            },
-            "district": 9
-        },
-        {
-            "name": "Perez, Marie Gluesenkamp",
-            "state": "Washington",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2023
-            },
-            "district": 3
-        },
-        {
             "name": "Newhouse, Dan",
             "state": "Washington",
             "item": {
@@ -71,15 +80,6 @@
                 "startYear": 2015
             },
             "district": 4
-        },
-        {
-            "name": "Kilmer, Derek",
-            "state": "Washington",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2013
-            },
-            "district": 6
         },
         {
             "name": "DelBene, Suzan K.",
@@ -91,13 +91,13 @@
             "district": 1
         },
         {
-            "name": "McMorris Rodgers, Cathy",
+            "name": "Smith, Adam",
             "state": "Washington",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2005
+                "startYear": 1997
             },
-            "district": 5
+            "district": 9
         },
         {
             "name": "Larsen, Rick",
@@ -110,7 +110,7 @@
         }
     ],
     "governor": {
-        "name": "Jay Inslee",
+        "name": "Bob Ferguson",
         "state": "Washington"
     }
 }

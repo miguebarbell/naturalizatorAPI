@@ -1,23 +1,41 @@
 {
     "senators": [
         {
-            "name": "Vance, J. D.",
+            "name": "Moreno, Bernie",
             "state": "Ohio",
             "item": {
                 "chamber": "Senate",
-                "startYear": 2023
+                "startYear": 2025
             }
         },
         {
-            "name": "Brown, Sherrod",
+            "name": "Husted, Jon",
             "state": "Ohio",
             "item": {
                 "chamber": "Senate",
-                "startYear": 2007
+                "startYear": 2025
             }
         }
     ],
     "representatives": [
+        {
+            "name": "Taylor, David J.",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 2
+        },
+        {
+            "name": "Rulli, Michael A.",
+            "state": "Ohio",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2024
+            },
+            "district": 6
+        },
         {
             "name": "Sykes, Emilia Strong",
             "state": "Ohio",
@@ -98,15 +116,6 @@
                 "startYear": 2013
             },
             "district": 3
-        },
-        {
-            "name": "Wenstrup, Brad R.",
-            "state": "Ohio",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2013
-            },
-            "district": 2
         },
         {
             "name": "Latta, Robert E.",

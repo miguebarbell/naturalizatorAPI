@@ -3,17 +3,17 @@
     ],
     "representatives": [
         {
-            "name": "González-Colón, Jenniffer",
+            "name": "Hernández, Pablo Jose",
             "state": "Puerto Rico",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2017
+                "startYear": 2025
             },
             "district": 0
         }
     ],
     "governor": {
-        "name": "Pedro Pierluisi",
+        "name": "Jenniffer González-Colón",
         "state": "Puerto Rico"
     }
 }

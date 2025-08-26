@@ -19,6 +19,15 @@
     ],
     "representatives": [
         {
+            "name": "Wied, Tony",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2024
+            },
+            "district": 8
+        },
+        {
             "name": "Van Orden, Derrick",
             "state": "Wisconsin",
             "item": {
@@ -46,24 +55,6 @@
             "district": 7
         },
         {
-            "name": "Steil, Bryan",
-            "state": "Wisconsin",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2019
-            },
-            "district": 1
-        },
-        {
-            "name": "Gallagher, Mike",
-            "state": "Wisconsin",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2017
-            },
-            "district": 8
-        },
-        {
             "name": "Grothman, Glenn",
             "state": "Wisconsin",
             "item": {
@@ -89,6 +80,15 @@
                 "startYear": 2005
             },
             "district": 4
+        },
+        {
+            "name": "Steil, Bryan",
+            "state": "Wisconsin",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 1
         }
     ],
     "governor": {

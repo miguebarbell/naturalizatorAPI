@@ -19,6 +19,15 @@
     ],
     "representatives": [
         {
+            "name": "Figures, Shomari",
+            "state": "Alabama",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 2
+        },
+        {
             "name": "Strong, Dale W.",
             "state": "Alabama",
             "item": {
@@ -28,22 +37,13 @@
             "district": 5
         },
         {
-            "name": "Carl, Jerry L.",
-            "state": "Alabama",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 1
-        },
-        {
             "name": "Moore, Barry",
             "state": "Alabama",
             "item": {
                 "chamber": "House of Representatives",
                 "startYear": 2021
             },
-            "district": 2
+            "district": 1
         },
         {
             "name": "Palmer, Gary J.",

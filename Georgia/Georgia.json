@@ -19,13 +19,22 @@
     ],
     "representatives": [
         {
+            "name": "Jack, Brian",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 3
+        },
+        {
             "name": "McCormick, Richard",
             "state": "Georgia",
             "item": {
                 "chamber": "House of Representatives",
                 "startYear": 2023
             },
-            "district": 6
+            "district": 7
         },
         {
             "name": "Collins, Mike",
@@ -70,7 +79,7 @@
                 "chamber": "House of Representatives",
                 "startYear": 2019
             },
-            "district": 7
+            "district": 6
         },
         {
             "name": "Allen, Rick W.",
@@ -91,33 +100,6 @@
             "district": 11
         },
         {
-            "name": "Scott, Austin",
-            "state": "Georgia",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2011
-            },
-            "district": 8
-        },
-        {
-            "name": "Scott, David",
-            "state": "Georgia",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2003
-            },
-            "district": 13
-        },
-        {
-            "name": "Ferguson, A. Drew",
-            "state": "Georgia",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2017
-            },
-            "district": 3
-        },
-        {
             "name": "Carter, Earl L. \"Buddy\"",
             "state": "Georgia",
             "item": {
@@ -125,6 +107,15 @@
                 "startYear": 2015
             },
             "district": 1
+        },
+        {
+            "name": "Scott, Austin",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2011
+            },
+            "district": 8
         },
         {
             "name": "Johnson, Henry C. \"Hank\"",
@@ -143,6 +134,15 @@
                 "startYear": 1993
             },
             "district": 2
+        },
+        {
+            "name": "Scott, David",
+            "state": "Georgia",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 13
         }
     ],
     "governor": {

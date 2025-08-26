@@ -1,11 +1,11 @@
 {
     "senators": [
         {
-            "name": "Tester, Jon",
+            "name": "Sheehy, Tim",
             "state": "Montana",
             "item": {
                 "chamber": "Senate",
-                "startYear": 2007
+                "startYear": 2025
             }
         },
         {
@@ -19,11 +19,11 @@
     ],
     "representatives": [
         {
-            "name": "Rosendale, Matthew M.",
+            "name": "Downing, Troy",
             "state": "Montana",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2021
+                "startYear": 2025
             },
             "district": 2
         },

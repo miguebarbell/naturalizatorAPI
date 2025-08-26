@@ -1,11 +1,11 @@
 {
     "senators": [
         {
-            "name": "Menendez, Robert",
+            "name": "Kim, Andy",
             "state": "New Jersey",
             "item": {
                 "chamber": "Senate",
-                "startYear": 2006
+                "startYear": 2024
             }
         },
         {
@@ -19,40 +19,31 @@
     ],
     "representatives": [
         {
-            "name": "Sherrill, Mikie",
+            "name": "Pou, Nellie",
             "state": "New Jersey",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2019
-            },
-            "district": 11
-        },
-        {
-            "name": "Watson Coleman, Bonnie",
-            "state": "New Jersey",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2015
-            },
-            "district": 12
-        },
-        {
-            "name": "Payne, Donald M.",
-            "state": "New Jersey",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2012
-            },
-            "district": 10
-        },
-        {
-            "name": "Pascrell, Bill",
-            "state": "New Jersey",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 1997
+                "startYear": 2025
             },
             "district": 9
+        },
+        {
+            "name": "Conaway, Herbert C.",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 3
+        },
+        {
+            "name": "McIver, LaMonica",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2024
+            },
+            "district": 10
         },
         {
             "name": "Menendez, Robert",
@@ -73,13 +64,13 @@
             "district": 7
         },
         {
-            "name": "Kim, Andy",
+            "name": "Sherrill, Mikie",
             "state": "New Jersey",
             "item": {
                 "chamber": "House of Representatives",
                 "startYear": 2019
             },
-            "district": 3
+            "district": 11
         },
         {
             "name": "Van Drew, Jefferson",
@@ -98,6 +89,15 @@
                 "startYear": 2017
             },
             "district": 5
+        },
+        {
+            "name": "Watson Coleman, Bonnie",
+            "state": "New Jersey",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 12
         },
         {
             "name": "Norcross, Donald",

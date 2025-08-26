@@ -9,27 +9,27 @@
             }
         },
         {
-            "name": "Carper, Thomas R.",
+            "name": "Blunt Rochester, Lisa",
             "state": "Delaware",
             "item": {
                 "chamber": "Senate",
-                "startYear": 2001
+                "startYear": 2025
             }
         }
     ],
     "representatives": [
         {
-            "name": "Blunt Rochester, Lisa",
+            "name": "McBride, Sarah",
             "state": "Delaware",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2017
+                "startYear": 2025
             },
             "district": 0
         }
     ],
     "governor": {
-        "name": "John Carney",
+        "name": "Matt Meyer",
         "state": "Delaware"
     }
 }

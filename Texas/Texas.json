@@ -19,6 +19,24 @@
     ],
     "representatives": [
         {
+            "name": "Johnson, Julie",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 32
+        },
+        {
+            "name": "Gill, Brandon",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 26
+        },
+        {
             "name": "Hunt, Wesley",
             "state": "Texas",
             "item": {
@@ -46,13 +64,49 @@
             "district": 35
         },
         {
-            "name": "Allred, Colin Z.",
+            "name": "Van Duyne, Beth",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 24
+        },
+        {
+            "name": "Nehls, Troy E.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 22
+        },
+        {
+            "name": "Gonzales, Tony",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 23
+        },
+        {
+            "name": "Garcia, Sylvia R.",
             "state": "Texas",
             "item": {
                 "chamber": "House of Representatives",
                 "startYear": 2019
             },
-            "district": 32
+            "district": 29
+        },
+        {
+            "name": "Cloud, Michael",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2018
+            },
+            "district": 27
         },
         {
             "name": "Gonzalez, Vicente",
@@ -82,6 +136,24 @@
             "district": 33
         },
         {
+            "name": "Williams, Roger",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2013
+            },
+            "district": 25
+        },
+        {
+            "name": "Cuellar, Henry",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 28
+        },
+        {
             "name": "Carter, John R.",
             "state": "Texas",
             "item": {
@@ -98,6 +170,15 @@
                 "startYear": 1995
             },
             "district": 37
+        },
+        {
+            "name": "Goldman, Craig A.",
+            "state": "Texas",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 12
         },
         {
             "name": "Self, Keith",
@@ -145,15 +226,6 @@
             "district": 6
         },
         {
-            "name": "Van Duyne, Beth",
-            "state": "Texas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 24
-        },
-        {
             "name": "Pfluger, August",
             "state": "Texas",
             "item": {
@@ -161,15 +233,6 @@
                 "startYear": 2021
             },
             "district": 11
-        },
-        {
-            "name": "Nehls, Troy E.",
-            "state": "Texas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 22
         },
         {
             "name": "Jackson, Ronny",
@@ -181,15 +244,6 @@
             "district": 13
         },
         {
-            "name": "Gonzales, Tony",
-            "state": "Texas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 23
-        },
-        {
             "name": "Fallon, Pat",
             "state": "Texas",
             "item": {
@@ -197,15 +251,6 @@
                 "startYear": 2021
             },
             "district": 4
-        },
-        {
-            "name": "Garcia, Sylvia R.",
-            "state": "Texas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2019
-            },
-            "district": 29
         },
         {
             "name": "Roy, Chip",
@@ -253,15 +298,6 @@
             "district": 2
         },
         {
-            "name": "Cloud, Michael",
-            "state": "Texas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2018
-            },
-            "district": 27
-        },
-        {
             "name": "Arrington, Jodey C.",
             "state": "Texas",
             "item": {
@@ -269,15 +305,6 @@
                 "startYear": 2017
             },
             "district": 19
-        },
-        {
-            "name": "Williams, Roger",
-            "state": "Texas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2013
-            },
-            "district": 25
         },
         {
             "name": "Castro, Joaquin",
@@ -289,7 +316,7 @@
             "district": 20
         },
         {
-            "name": "Weber, Randy K.",
+            "name": "Weber, Randy K. Sr.",
             "state": "Texas",
             "item": {
                 "chamber": "House of Representatives",
@@ -305,24 +332,6 @@
                 "startYear": 2021
             },
             "district": 17
-        },
-        {
-            "name": "Granger, Kay",
-            "state": "Texas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 1997
-            },
-            "district": 12
-        },
-        {
-            "name": "Cuellar, Henry",
-            "state": "Texas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2005
-            },
-            "district": 28
         },
         {
             "name": "McCaul, Michael T.",
@@ -341,24 +350,6 @@
                 "startYear": 2005
             },
             "district": 9
-        },
-        {
-            "name": "Burgess, Michael C.",
-            "state": "Texas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2003
-            },
-            "district": 26
-        },
-        {
-            "name": "Jackson Lee, Sheila",
-            "state": "Texas",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 1995
-            },
-            "district": 18
         }
     ],
     "governor": {

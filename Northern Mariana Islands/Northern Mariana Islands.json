@@ -3,17 +3,17 @@
     ],
     "representatives": [
         {
-            "name": "Sablan, Gregorio Kilili Camacho",
+            "name": "King-Hinds, Kimberlyn",
             "state": "Northern Mariana Islands",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2009
+                "startYear": 2025
             },
             "district": 0
         }
     ],
     "governor": {
-        "name": "Arnold Palacios",
+        "name": "David M. Apatang",
         "state": "Northern Mariana Islands"
     }
 }

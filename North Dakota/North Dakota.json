@@ -19,17 +19,17 @@
     ],
     "representatives": [
         {
-            "name": "Armstrong, Kelly",
+            "name": "Fedorchak, Julie",
             "state": "North Dakota",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2019
+                "startYear": 2025
             },
             "district": 0
         }
     ],
     "governor": {
-        "name": "Doug Burgum",
+        "name": "Kelly Armstrong",
         "state": "North Dakota"
     }
 }

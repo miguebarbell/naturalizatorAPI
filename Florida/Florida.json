@@ -9,23 +9,68 @@
             }
         },
         {
-            "name": "Rubio, Marco",
+            "name": "Moody, Ashley",
             "state": "Florida",
             "item": {
                 "chamber": "Senate",
-                "startYear": 2011
+                "startYear": 2025
             }
         }
     ],
     "representatives": [
         {
-            "name": "Frost, Maxwell",
+            "name": "Salazar, Maria Elvira",
             "state": "Florida",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2023
+                "startYear": 2021
             },
-            "district": 10
+            "district": 27
+        },
+        {
+            "name": "Gimenez, Carlos A.",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 28
+        },
+        {
+            "name": "Wasserman Schultz, Debbie",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2005
+            },
+            "district": 25
+        },
+        {
+            "name": "Diaz-Balart, Mario",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2003
+            },
+            "district": 26
+        },
+        {
+            "name": "Fine, Randy",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 6
+        },
+        {
+            "name": "Haridopolos, Mike",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 8
         },
         {
             "name": "Moskowitz, Jared",
@@ -64,6 +109,15 @@
             "district": 15
         },
         {
+            "name": "Frost, Maxwell",
+            "state": "Florida",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 10
+        },
+        {
             "name": "Bean, Aaron",
             "state": "Florida",
             "item": {
@@ -82,22 +136,13 @@
             "district": 20
         },
         {
-            "name": "Salazar, Maria Elvira",
+            "name": "Franklin, Scott",
             "state": "Florida",
             "item": {
                 "chamber": "House of Representatives",
                 "startYear": 2021
             },
-            "district": 27
-        },
-        {
-            "name": "Gimenez, Carlos A.",
-            "state": "Florida",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 28
+            "district": 18
         },
         {
             "name": "Donalds, Byron",
@@ -125,15 +170,6 @@
                 "startYear": 2019
             },
             "district": 17
-        },
-        {
-            "name": "Waltz, Michael",
-            "state": "Florida",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2019
-            },
-            "district": 6
         },
         {
             "name": "Mast, Brian J.",
@@ -170,15 +206,6 @@
                 "startYear": 2017
             },
             "district": 2
-        },
-        {
-            "name": "Gaetz, Matt",
-            "state": "Florida",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2017
-            },
-            "district": 1
         },
         {
             "name": "Frankel, Lois",
@@ -235,40 +262,13 @@
             "district": 12
         },
         {
-            "name": "Posey, Bill",
+            "name": "Patronis, Jimmy",
             "state": "Florida",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2009
+                "startYear": 2025
             },
-            "district": 8
-        },
-        {
-            "name": "Wasserman Schultz, Debbie",
-            "state": "Florida",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2005
-            },
-            "district": 25
-        },
-        {
-            "name": "Diaz-Balart, Mario",
-            "state": "Florida",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2003
-            },
-            "district": 26
-        },
-        {
-            "name": "Franklin, C. Scott",
-            "state": "Florida",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 18
+            "district": 1
         }
     ],
     "governor": {

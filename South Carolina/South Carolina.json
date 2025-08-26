@@ -19,6 +19,15 @@
     ],
     "representatives": [
         {
+            "name": "Biggs, Sheri",
+            "state": "South Carolina",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 3
+        },
+        {
             "name": "Fry, Russell",
             "state": "South Carolina",
             "item": {
@@ -53,15 +62,6 @@
                 "startYear": 2017
             },
             "district": 5
-        },
-        {
-            "name": "Duncan, Jeff",
-            "state": "South Carolina",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2011
-            },
-            "district": 3
         },
         {
             "name": "Wilson, Joe",

@@ -19,33 +19,6 @@
     ],
     "representatives": [
         {
-            "name": "Ogles, Andrew",
-            "state": "Tennessee",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2023
-            },
-            "district": 5
-        },
-        {
-            "name": "Green, Mark E.",
-            "state": "Tennessee",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2019
-            },
-            "district": 7
-        },
-        {
-            "name": "Rose, John W.",
-            "state": "Tennessee",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2019
-            },
-            "district": 6
-        },
-        {
             "name": "Kustoff, David",
             "state": "Tennessee",
             "item": {
@@ -64,6 +37,15 @@
             "district": 9
         },
         {
+            "name": "Ogles, Andrew",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 5
+        },
+        {
             "name": "Harshbarger, Diana",
             "state": "Tennessee",
             "item": {
@@ -71,6 +53,15 @@
                 "startYear": 2021
             },
             "district": 1
+        },
+        {
+            "name": "Rose, John W.",
+            "state": "Tennessee",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2019
+            },
+            "district": 6
         },
         {
             "name": "Burchett, Tim",

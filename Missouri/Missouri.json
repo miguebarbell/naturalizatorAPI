@@ -19,6 +19,24 @@
     ],
     "representatives": [
         {
+            "name": "Onder, Robert F.",
+            "state": "Missouri",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 3
+        },
+        {
+            "name": "Bell, Wesley",
+            "state": "Missouri",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 1
+        },
+        {
             "name": "Burlison, Eric",
             "state": "Missouri",
             "item": {
@@ -37,15 +55,6 @@
             "district": 4
         },
         {
-            "name": "Bush, Cori",
-            "state": "Missouri",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 1
-        },
-        {
             "name": "Wagner, Ann",
             "state": "Missouri",
             "item": {
@@ -62,15 +71,6 @@
                 "startYear": 2013
             },
             "district": 8
-        },
-        {
-            "name": "Luetkemeyer, Blaine",
-            "state": "Missouri",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2009
-            },
-            "district": 3
         },
         {
             "name": "Cleaver, Emanuel",
@@ -92,7 +92,7 @@
         }
     ],
     "governor": {
-        "name": "Mike Parson",
+        "name": "Mike Kehoe",
         "state": "Missouri"
     }
 }

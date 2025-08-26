@@ -1,11 +1,11 @@
 {
     "senators": [
         {
-            "name": "Stabenow, Debbie",
+            "name": "Slotkin, Elissa",
             "state": "Michigan",
             "item": {
                 "chamber": "Senate",
-                "startYear": 2001
+                "startYear": 2025
             }
         },
         {
@@ -19,15 +19,6 @@
     ],
     "representatives": [
         {
-            "name": "James, John",
-            "state": "Michigan",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2023
-            },
-            "district": 10
-        },
-        {
             "name": "Thanedar, Shri",
             "state": "Michigan",
             "item": {
@@ -35,15 +26,6 @@
                 "startYear": 2023
             },
             "district": 13
-        },
-        {
-            "name": "McClain, Lisa C.",
-            "state": "Michigan",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 9
         },
         {
             "name": "Tlaib, Rashida",
@@ -55,13 +37,22 @@
             "district": 12
         },
         {
-            "name": "Stevens, Haley M.",
+            "name": "McDonald Rivet, Kristen",
             "state": "Michigan",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2019
+                "startYear": 2025
             },
-            "district": 11
+            "district": 8
+        },
+        {
+            "name": "Barrett, Tom",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 7
         },
         {
             "name": "Scholten, Hillary J.",
@@ -73,13 +64,31 @@
             "district": 3
         },
         {
-            "name": "Slotkin, Elissa",
+            "name": "James, John",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 10
+        },
+        {
+            "name": "McClain, Lisa C.",
+            "state": "Michigan",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2021
+            },
+            "district": 9
+        },
+        {
+            "name": "Stevens, Haley M.",
             "state": "Michigan",
             "item": {
                 "chamber": "House of Representatives",
                 "startYear": 2019
             },
-            "district": 7
+            "district": 11
         },
         {
             "name": "Bergman, Jack",
@@ -107,15 +116,6 @@
                 "startYear": 2015
             },
             "district": 2
-        },
-        {
-            "name": "Kildee, Daniel T.",
-            "state": "Michigan",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2013
-            },
-            "district": 8
         },
         {
             "name": "Huizenga, Bill",

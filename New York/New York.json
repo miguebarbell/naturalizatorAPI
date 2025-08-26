@@ -19,31 +19,13 @@
     ],
     "representatives": [
         {
-            "name": "Suozzi, Thomas R.",
+            "name": "Kennedy, Timothy M.",
             "state": "New York",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2017
+                "startYear": 2024
             },
-            "district": 3
-        },
-        {
-            "name": "Williams, Brandon",
-            "state": "New York",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2023
-            },
-            "district": 22
-        },
-        {
-            "name": "Langworthy, Nicholas A.",
-            "state": "New York",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2023
-            },
-            "district": 23
+            "district": 26
         },
         {
             "name": "Morelle, Joseph D.",
@@ -64,31 +46,40 @@
             "district": 24
         },
         {
-            "name": "Stefanik, Elise M.",
+            "name": "Riley, Josh",
             "state": "New York",
             "item": {
                 "chamber": "House of Representatives",
-                "startYear": 2015
-            },
-            "district": 21
-        },
-        {
-            "name": "Tonko, Paul",
-            "state": "New York",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2009
-            },
-            "district": 20
-        },
-        {
-            "name": "Molinaro, Marcus J.",
-            "state": "New York",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2023
+                "startYear": 2025
             },
             "district": 19
+        },
+        {
+            "name": "Mannion, John W.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 22
+        },
+        {
+            "name": "Latimer, George",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 16
+        },
+        {
+            "name": "Gillen, Laura",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 4
         },
         {
             "name": "Lawler, Michael",
@@ -100,13 +91,13 @@
             "district": 17
         },
         {
-            "name": "LaLota, Nick",
+            "name": "Langworthy, Nicholas A.",
             "state": "New York",
             "item": {
                 "chamber": "House of Representatives",
                 "startYear": 2023
             },
-            "district": 1
+            "district": 23
         },
         {
             "name": "Goldman, Daniel S.",
@@ -116,15 +107,6 @@
                 "startYear": 2023
             },
             "district": 10
-        },
-        {
-            "name": "D'Esposito, Anthony",
-            "state": "New York",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2023
-            },
-            "district": 4
         },
         {
             "name": "Ryan, Patrick",
@@ -163,15 +145,6 @@
             "district": 2
         },
         {
-            "name": "Bowman, Jamaal",
-            "state": "New York",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2021
-            },
-            "district": 16
-        },
-        {
             "name": "Ocasio-Cortez, Alexandria",
             "state": "New York",
             "item": {
@@ -188,6 +161,24 @@
                 "startYear": 2017
             },
             "district": 13
+        },
+        {
+            "name": "Suozzi, Thomas R.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2017
+            },
+            "district": 3
+        },
+        {
+            "name": "Stefanik, Elise M.",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2015
+            },
+            "district": 21
         },
         {
             "name": "Jeffries, Hakeem S.",
@@ -217,6 +208,15 @@
             "district": 9
         },
         {
+            "name": "Tonko, Paul",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2009
+            },
+            "district": 20
+        },
+        {
             "name": "Meeks, Gregory W.",
             "state": "New York",
             "item": {
@@ -242,6 +242,15 @@
                 "startYear": 1991
             },
             "district": 12
+        },
+        {
+            "name": "LaLota, Nick",
+            "state": "New York",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2023
+            },
+            "district": 1
         }
     ],
     "governor": {

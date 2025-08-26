@@ -8,12 +8,12 @@
         "state": "Kentucky"
     },
     {
-        "name": "Arnold Palacios",
-        "state": "Northern Mariana Islands"
-    },
-    {
         "name": "Bill Lee",
         "state": "Tennessee"
+    },
+    {
+        "name": "Bob Ferguson",
+        "state": "Washington"
     },
     {
         "name": "Brad Little",
@@ -24,20 +24,12 @@
         "state": "Georgia"
     },
     {
-        "name": "Chris Sununu",
-        "state": "New Hampshire"
-    },
-    {
         "name": "Dan McKee",
         "state": "Rhode Island"
     },
     {
-        "name": "Doug Burgum",
-        "state": "North Dakota"
-    },
-    {
-        "name": "Eric Holcomb",
-        "state": "Indiana"
+        "name": "David M. Apatang",
+        "state": "Northern Mariana Islands"
     },
     {
         "name": "Gavin Newsom",
@@ -72,10 +64,6 @@
         "state": "Colorado"
     },
     {
-        "name": "Jay Inslee",
-        "state": "Washington"
-    },
-    {
         "name": "JB Pritzker",
         "state": "Illinois"
     },
@@ -84,8 +72,8 @@
         "state": "Louisiana"
     },
     {
-        "name": "Jim Justice",
-        "state": "West Virginia"
+        "name": "Jenniffer González-Colón",
+        "state": "Puerto Rico"
     },
     {
         "name": "Jim Pillen",
@@ -96,16 +84,16 @@
         "state": "Nevada"
     },
     {
-        "name": "John Carney",
-        "state": "Delaware"
-    },
-    {
         "name": "Josh Green",
         "state": "Hawaii"
     },
     {
         "name": "Josh Shapiro",
         "state": "Pennsylvania"
+    },
+    {
+        "name": "Josh Stein",
+        "state": "North Carolina"
     },
     {
         "name": "Kathy Hochul",
@@ -120,6 +108,14 @@
         "state": "Alabama"
     },
     {
+        "name": "Kelly Armstrong",
+        "state": "North Dakota"
+    },
+    {
+        "name": "Kelly Ayotte",
+        "state": "New Hampshire"
+    },
+    {
         "name": "Kevin Stitt",
         "state": "Oklahoma"
     },
@@ -128,16 +124,12 @@
         "state": "Iowa"
     },
     {
-        "name": "Kristi Noem",
+        "name": "Larry Rhoden",
         "state": "South Dakota"
     },
     {
         "name": "Laura Kelly",
         "state": "Kansas"
-    },
-    {
-        "name": "Lemanu P. S. Mauga",
-        "state": "American Samoa"
     },
     {
         "name": "Lou Leon Guerrero",
@@ -148,12 +140,20 @@
         "state": "Wyoming"
     },
     {
+        "name": "Matt Meyer",
+        "state": "Delaware"
+    },
+    {
         "name": "Maura Healey",
         "state": "Massachusetts"
     },
     {
         "name": "Michelle Lujan Grisham",
         "state": "New Mexico"
+    },
+    {
+        "name": "Mike Braun",
+        "state": "Indiana"
     },
     {
         "name": "Mike DeWine",
@@ -164,7 +164,7 @@
         "state": "Alaska"
     },
     {
-        "name": "Mike Parson",
+        "name": "Mike Kehoe",
         "state": "Missouri"
     },
     {
@@ -172,8 +172,8 @@
         "state": "Connecticut"
     },
     {
-        "name": "Pedro Pierluisi",
-        "state": "Puerto Rico"
+        "name": "Patrick Morrisey",
+        "state": "West Virginia"
     },
     {
         "name": "Phil Murphy",
@@ -184,12 +184,12 @@
         "state": "Vermont"
     },
     {
-        "name": "Ron DeSantis",
-        "state": "Florida"
+        "name": "Pula’ali’i Nikolao Pula",
+        "state": "American Samoa"
     },
     {
-        "name": "Roy Cooper",
-        "state": "North Carolina"
+        "name": "Ron DeSantis",
+        "state": "Florida"
     },
     {
         "name": "Sarah Huckabee Sanders",

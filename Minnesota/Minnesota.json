@@ -19,6 +19,15 @@
     ],
     "representatives": [
         {
+            "name": "Morrison, Kelly",
+            "state": "Minnesota",
+            "item": {
+                "chamber": "House of Representatives",
+                "startYear": 2025
+            },
+            "district": 3
+        },
+        {
             "name": "Finstad, Brad",
             "state": "Minnesota",
             "item": {
@@ -53,15 +62,6 @@
                 "startYear": 2019
             },
             "district": 5
-        },
-        {
-            "name": "Phillips, Dean",
-            "state": "Minnesota",
-            "item": {
-                "chamber": "House of Representatives",
-                "startYear": 2019
-            },
-            "district": 3
         },
         {
             "name": "Craig, Angie",
